@@ -1,0 +1,523 @@
+#EXTM3U
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/30b4930c716885e45d6e7815bde19c6a.png" tvg-name="TVR 1"  group-title="Generale",TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/c6d859baea548cc7e8ca08e876d0322e.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="Pro TV"  group-title="Generale",Pro TV
+http://193.228.153.231:4241/bysid/30
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
+https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
+https://sportbar.biz/lba/123/g9/antena1.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33764.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33772.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33770.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33785.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
+http://5.255.90.252:5004/play/a072
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33782.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
+http://stream.adunity.com/b1/b1.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
+http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="ProTV Chisinau HD"  group-title="Generale",ProTV Chisinau HD
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
+http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fef5adfb682e33d3be5ee5083344414b.png" tvg-name="Realitatea Tv"  group-title="Stiri",Realitatea Tv
+https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/37266.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33779.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33767.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2017/02/01/antena-3-nr-1-in-ziua-cand-guvernul-a-adoptat-oug-care-aduce-modificari-codului-penal-431643.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33766.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
+https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
+#EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit TV"  group-title="Stiri",Profit TV
+https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro Tv"  group-title="Stiri",Agro Tv
+http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
+https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/954e441ada12cfc3172940b4a4997bba.png" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
+http://83.103.145.35:8001/
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
+https://sportbar.biz/lba/abc/g3/ds1ro.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33797.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
+https://sportbar.biz/lba/abc/g7/digisport2ro.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33799.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
+https://sportbar.biz/lba/abc/g7/digi3ro.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33801.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
+https://sportbar.biz/lba/abc/g1/rodigi4.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33803.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33806.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2 HD"  group-title="Sport",Telekom Sport 2 HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33807.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b9415a2fc2b1b4432e5eeed9ed3eac0c.png" tvg-name="Telekom Sport 3 HD"  group-title="Sport",Telekom Sport 3 HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34074.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b6065c03e02d5f6c6eb6f9fc39c6047.png" tvg-name="Telekom Sport 4 HD"  group-title="Sport",Telekom Sport 4 HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34075.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33810.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33810.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33813.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33812.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33818.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
+https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/486f331f3edd4bd4fc4b78cca2f5b266.png" tvg-name="Super Tennis"  group-title="Sport", Super Tennis
+https://sportbar.biz/lba/OTM3ZDdjOTRmOTI5MmQ3MGYxZDRjMDI3NjFkY2Q3MWY=/g5/itsupertennis.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport"  group-title="Sport",Look Sport
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33815.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
+http://vsvnad.com:8000/live/ciprian_verincianu/Alin2008/33815.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="Look Sport 2"  group-title="Sport",Look Sport 2
+http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level(3040870)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport3.png" tvg-name="Look Sport 3"  group-title="Sport",Look Sport 3
+http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level(3040870)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="Look Plus"  group-title="Sport",Look Plus
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33815.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33815.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33833.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33832.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33834.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33834.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33837.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33836.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" tvg-name="Fox Movies FHD"  group-title="Filme",Fox Movies FHD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38405.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" tvg-name="Fox Christmas HD"  group-title="Filme",Fox Christmas HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38406.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Supereroi"  group-title="Filme",Magura Media Supereroi
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/37420.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media VanDamme"  group-title="Filme",Magura Media VanDamme
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37417.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Kung Fu"  group-title="Filme",Magura Media Kung Fu
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37415.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Kids"  group-title="Filme",Magura Media Kids
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37410.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Istoric"  group-title="Filme",Magura Media Istoric
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37411.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Comedy"  group-title="Filme",Magura Media Comedy
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37416.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Cinema"  group-title="Filme",Magura Media Cinema
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37413.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Action"  group-title="Filme",Magura Media Action
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37409.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Horror"  group-title="Filme",Magura Media Horror
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38401.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Filme Romanesti"  group-title="Filme",Magura Media Filme Romanesti
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38402.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media 4K"  group-title="Filme",Magura Media 4K
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37414.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_2e880c5096484481b6a59e5ca6f70822~mv2.gif" tvg-name="FolclorTV Sci-Fi"  group-title="Filme",FolclorTV Sci-Fi
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38202.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_2e880c5096484481b6a59e5ca6f70822~mv2.gif" tvg-name="FolclorTV"  group-title="Filme",FolclorTV
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38201.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_2e880c5096484481b6a59e5ca6f70822~mv2.gif" tvg-name="FolclorTV Action HD"  group-title="Filme",FolclorTV Action HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38200.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://a1.ro/uploads/modules/elements/365/upload_logo.png" tvg-name="HDNet IUmor"  group-title="Filme",HDNet IUmor
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33828.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Thriller"  group-title="Filme",HDNet Thriller
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33821.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Sci-Fi"  group-title="Filme",HDNet Sci-Fi
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33822.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Premiere"  group-title="Filme",HDNet Premiere
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33819.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/5/51/Logo_Las_Fierbin%C8%9Bi.png" tvg-name="HDNet Las Fierbinti"  group-title="Filme",HDNet Las Fierbinti
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33827.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Horror"  group-title="Filme",HDNet Horror
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33823.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Comedy"  group-title="Filme",HDNet Comedy
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33825.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Action"  group-title="Filme",HDNet Action
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33820.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Bollywood"  group-title="Filme",HDNet Bollywood
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33826.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema HD"  group-title="Filme",VSV Cinema HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38253.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Movie HD"  group-title="Filme",VSV Movie HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37937.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Comedy"  group-title="Filme",VSV Comedy
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38206.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Horror"  group-title="Filme",VSV Horror
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38252.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV SciFi HD"  group-title="Filme",VSV SciFi HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38394.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Bollywood HD"  group-title="Filme",VSV Bollywood HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38400.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Desene Animate"  group-title="Filme",VSV Desene animate
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37938.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Christmas"  group-title="Filme",AVB Christmas
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38404.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Action HD"  group-title="Filme",AVB Action HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37830.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Horror"  group-title="Filme",AVB Horror
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38393.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Desene animate"  group-title="Filme",AVB Desene animate
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38204.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33830.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33830.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
+http://188.214.39.67:1555/vom
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33847.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33846.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33848.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33849.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33850.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33843.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33844.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva Universal"  group-title="Filme",Diva Universal
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33839.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33841.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/15a2e4765dd519171b8e1bf235dfbfc7.png" tvg-name="TV 1000"  group-title="Filme",TV 1000
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33838.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33851.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png" tvg-name="TNT"  group-title="Filme",TNT
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33852.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/da2ee3322bdd3034a556858ec706e70e.png" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33858.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b818b960f3a29fbd8c315e0c2d58848d.png" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/36463.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
+https://cmn.digitalcable.ro/free/cm/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
+https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Film Box"  group-title="Filme",Film Box
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33855.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/46d799bd756a044c4e38bcca61096fe9.png" tvg-name="Film Box Extra HD"  group-title="Filme",Film Box Extra HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33854.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa1e8832a1b2c29d9950c4899033b08a.png" tvg-name="Film Box Family"  group-title="Filme",Film Box Family
+http://tv.hopto.me:7779/live/FAZT6fn9TV/EH12Vwa7HA/41596.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/06dd1192d55ab64074f190469710e8b4.png" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
+http://193.29.12.221:25461/live/canaleromanesti/d2TJ0VSgxv/78.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b968071e468696313ea4dea83d62b77b.png" tvg-name="Film Box Premium"  group-title="Filme",Film Box Premium
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33856.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
+https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2"  group-title="Filme",PRO 2
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33773.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
+https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
+https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4c0a8bf1a097eb45f5bc038ae71e4652.png" tvg-name="Bollywood TV HD"  group-title="Filme",Bollywood TV HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
+http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://medikatv.ro/wp-content/uploads/2019/06/medika_logo.png" tvg-name="Medika TV"  group-title="Wild",Medika TV
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/34083.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33884.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33883.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33882.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33882.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33886.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33885.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33879.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/34078.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/34078.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="Discovery ID"  group-title="Wild",Discovery ID
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33881.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="Discovery ID HD"  group-title="Wild",Discovery ID HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33880.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Extra"  group-title="Wild",Discovery Turbo Extra
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33875.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Extra"  group-title="Wild",Discovery Turbo Extra HD
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33875.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery ShowCase HD"  group-title="Wild",Discovery ShowCase HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33878.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33900.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/36573.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33902.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life HD"  group-title="Wild",Digi Life HD
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33901.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33898.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Wild",Digi Animal World HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33897.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0a1d990896e36d9c5611fad3b2c97ea0.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33892.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox"  group-title="Wild",DocuBox HD
+http://live.astvpro.com:8880/live/testrooo/90ogTeA/214.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33894.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33873.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33874.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33877.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Wild",E! Entertainment HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33876.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33889.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix HD"  group-title="Wild",Travel Mix HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33889.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1bee82147f8df51adfd25ddfbc1fa82.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33888.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel HD"  group-title="Wild",Travel Channel HD
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33887.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Wild",TLC
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33891.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Wild",VP HD
+http://89.38.8.130:39437/
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5382b51ca47c88d283e818ad2d1e3aca.png" tvg-name="Food Netwoork"  group-title="Wild",Food Netwoork
+http://live.astvpro.com:8880/live/testrooo/90ogTeA/242.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f764e7fd41d145baf85a911201a35b0b.png" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
+http://188.214.39.67:14555/pap
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3cd15f8f2940aff879df34df4e5c2cd1.png" tvg-name="History"  group-title="Wild",History
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33895.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/50d4859f871c253cdd38796675a47bb3.png" tvg-name="History HD"  group-title="Wild",History HD
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33870.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/cinethronix.png" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/34092.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2c2b3343e7f4a897741a19505ba3925.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33869.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86f51d924c473a1ec52e292e98680b1a.png" tvg-name="Viasat History"  group-title="Wild",Viasat History
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/36713.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33872.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
+https://tinyurl.com/y9k7rbje
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33768.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33768.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33776.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33776.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
+http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
+http://stream1.antenaplay.ro/live/smil:AntenaMonden.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/fsBW8DJnT3KdTKAcTVxS.png" tvg-name="Antena Comedy"  group-title="Diverse",Antena Comedy
+http://stream1.antenaplay.ro/live/smil:ComedyPlay.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://new.6tv.ro/wp-content/uploads/2017/08/6tv_logo.png" tvg-name="6 TV"  group-title="Diverse",6 TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$6TV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5536729c5a1e343b547f59c95825f3e0.png" tvg-name="TVR HD"  group-title="Diverse",TVR HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/859c1d753b0d0ed6d83ed0b03cdc2c23.png" tvg-name="TVR 3"  group-title="Diverse",TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:0, tvg-id="raz15" tvg-logo="https://iptv.live/images/logo/channel/smalls/58301a625c19be6871c1f3f992e534c4.png" tvg-name="TVR International"  group-title="Diverse",TVR International
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33793.ts
+#EXTINF:0, tvg-id="raz47" tvg-logo="https://iptv.live/images/logo/channel/smalls/d277e55bff631b0848374dd0858df0aa.png" tvg-name="PRO TV International"  group-title="Diverse",PRO TV International
+http://78.109.108.62:2001/protv
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
+http://webmobile.xdev.ro:81/tv16/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33864.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6bee7677af2813c27e06499b0ac63cce.png" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33862.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1bcfb810cee704aa1a79058b194303d.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33861.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7c8755845c8a22c45293f336eab9f2e.png" tvg-name="Megamax"  group-title="Desene",Megamax
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33867.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
+http://5.255.90.252:5004/play/a06a
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
+http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33865.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang HD
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33865.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33904.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f19b88e6cb8cb067565bb3880b2fb3e1.png" tvg-name="Nick. Jr"  group-title="Desene",Nickelodeon
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/36719.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33860.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c5a9a9b092e065b4df87d3943593685.png" tvg-name="NickToons"  group-title="Desene",NickToons
+http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33866.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1944a5d887eba732b2d93b3b0a439422.png" tvg-name="Gurinel TV"  group-title="Desene",Gurinel TV
+http://live.astvpro.com:8880/live/testrooo/90ogTeA/671.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
+http://82.76.17.74:8001/jimjam
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
+http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33868.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
+http://159.253.168.96:999/udp/239.191.254.75:13343
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33908.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33907.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" tvg-name="Trace Tropical"  group-title="Muzica",Trace Tropical
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+#EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
+http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb.png" tvg-name="U Tv"  group-title="Muzica",U Tv
+http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" tvg-name="MTV"  group-title="Muzica",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee7bf5a92065ca7af4bd08d09f95df99.png" tvg-name="Vintage Music"  group-title="Muzica",Vintage Music
+https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v2a1/mono.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://www.phonostar.de/images/auto_created/Ibiza_Global_Radio184x184.png" tvg-name="Ibiza Global  group-title="Muzica",Ibiza Global
+http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
+http://5.255.90.252:5004/play/a06u
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/45de33b13919a82e82614c160f25ac43.png" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
+http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd50a24b2d4ed40207916b9a32e03512.png" tvg-name="Mooz Dance"  group-title="Muzica",Mooz Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz HD"  group-title="Muzica",Mooz HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dad8ee483cc9a336cde702e9aa0b0954.png" tvg-name="VH-1"  group-title="Muzica",VH-1
+http://89.45.201.132:2222/udp/224.0.0.3:604
+#EXTINF:0, tvg-id="" tvg-logo="https://www.telemusica.tv/images/logotelemusicahit.png" tvg-name="Tele Musica"  group-title="Muzica",Tele Musica
+http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://melodychannel.tv/images/logos.png" tvg-name="Melody Channel"  group-title="Muzica",Melody Channel
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/def6e6a0f57052cc936abe5f49207b85.png" tvg-name="Dream TV"  group-title="Muzica",Dream TV
+https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/543f2aceedf95f8ab5c9dc273eae5b25.png" tvg-name="Rapsodia TV"  group-title="Muzica",Rapsodia TV
+rtmp://rapsodia1.arya.ro/live/rapsodiatv1
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/diaspora-tv.png" tvg-name="Diaspora TV"  group-title="Muzica",Diaspora TV
+http://diasporamedia.go.ro:1935/diaspora/mobile/playlist.m3u8
+#EXTINF:0, tvg-id="raz71" tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
+http://78.109.108.62:6010/favorit
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33914.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" tvg-name="Tezaur TV"  group-title="Muzica",Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Traditional TV"  group-title="Muzica",Traditional TV
+http://83.103.149.75:8085/udp/239.30.0.9:4000
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/gagiu-tv-oltenia.png" tvg-name="Gagiu TV"  group-title="Muzica",Gagiu TV
+rtmp://gtv.arya.ro/live/gtv1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3da28374bf5b27f3a2e36d28505871dd.png" tvg-name="Inedit TV HD"  group-title="Muzica",Inedit TV HD
+http://telekomtv-ro.akamaized.net/shls/LIVE$IneditTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://nest-tv.ro/wp-content/uploads/2018/10/nest-tv-live.jpg" tvg-name="Nest TV Channel"  group-title="Muzica",Nest TV Channel
+http://webmobile.xdev.ro:81/tv13/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://www.somaxtv.com/wp-content/uploads/2015/04/logo_somax_t3.png" tvg-name="Somax TV"  group-title="Muzica",Somax TV
+http://webmobile.xdev.ro:81/tv12/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e037dec17e950ad06d3786e56cbf310e.png" tvg-name="Taraf"  group-title="Muzica",Taraf TV
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33913.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.supertv.ro/wp-content/uploads/2019/04/logo-gofm-and-super-tv.png" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
+http://91.235.165.77:8000/play/a002/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
+http://91.193.201.22:9091/udp/234.30.85.162:5000
+#EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
+http://95.77.16.67:8080/
+#EXTINF:0, tvg-id="" tvg-logo="https://andreipitigoi.files.wordpress.com/2010/01/sigla-campus-tv.jpg" tvg-name="Campus TV Buzau"  group-title="Locale",Campus TV Buzau
+mmsh://82.208.182.135:8080/
+#EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
+http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/ardeal-tv.png" tvg-name="Ardeal TV"  group-title="Locale",Ardeal TV
+http://89.36.196.22:88/live/livestream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/curier-tv-ro.png" tvg-name="Curier TV"  group-title="Locale",Curier TV
+http://5.2.164.135:1935/live/curiertv/.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://musceltv.ro/site/wp-content/uploads/2016/05/microsigla-frontala.png" tvg-name="Muscel TV"  group-title="Locale",Muscel TV
+mms://musceltvlive.muscel.ro:8080
+#EXTINF:0, tvg-id="" tvg-logo="https://bittv.info/wp-content/uploads/2018/10/logo-nou-2018.png" tvg-name="BIT TV"  group-title="Locale",BIT TV
+http://46.214.146.46:81/tv2/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://tvrmoldova.md/img/tvr-moldova-oriz-mic.png" tvg-name="TVR Moldova"  group-title="Locale",TVR Moldova
+https://mn-nl.mncdn.com/tvr_moldova_live/tvr_moldova_live2/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/tvr-cluj.png" tvg-name="TVR Cluj"  group-title="Locale",TVR Cluj
+http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tvr-craiova.png" tvg-name="TVR Craiova"  group-title="Locale",TVR Craiova
+https://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8?
+#EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/bucuresti-tv-mini.jpg" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
+http://79.112.184.195:9100/play/a03b
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/actualitatea-tv.png" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
+http://webmobile.xdev.ro:81/tv4/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/40cc1685b089b83039c635980cc4ec50.png" tvg-name="Telestar TV"  group-title="Locale",Telestar TV
+http://193.34.109.10:8090
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/5ba9ca9b011fd38a9db787d9948e1340.png" tvg-name="Columna TV"  group-title="Locale",Columna TV
+https://ppext.arktv.ro/hls/channel4/bitrate4.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/a97d39ea813ef06a57a20098026e9a66.png" tvg-name="Traditii TV"  group-title="Locale",Traditii TV
+https://ppext.arktv.ro/hls/channel5/bitrate4.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://acum-tv.ro/wp-content/uploads/2019/01/logo-acum-tv-xs-1-300x98.png" tvg-name="Acum TV"  group-title="Locale",Acum TV
+http://webmobile.xdev.ro:81/tv9/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://www.iasitvlife.ro/images/itv-logo.png" tvg-name="Iasi TV Life"  group-title="Locale",Iasi TV Life
+http://webmobile.xdev.ro:81/tv24/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/tv-alpha-media.png" tvg-name="Alpha Media TV"  group-title="Locale",Alpha Media TV
+http://webmobile.xdev.ro:81/tv27/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://a7tv.ro/wp-content/uploads/2017/12/logo-a7tv.png" tvg-name="A 7 TV HD"  group-title="Locale",A 7 TV HD
+http://play.streamkit.tv/content/channel/aseventv/live/aseventv.player.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://www.intermediatv.ro/wp-content/uploads/2017/01/logo.png" tvg-name="Intermedia TV"  group-title="Locale",Intermedia TV
+http://46.4.14.12:9999/intermedia1/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://canalregional.md/wp-content/uploads/2018/04/Logo.png" tvg-name="Canal Regional"  group-title="Locale",Canal Regional
+https://canalregional.md/tv/live/canalregional.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
+http://89.38.8.130:39419/
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/34100.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
+https://www.ast.tv/stream/2/normal.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee3a3d059b0289892dd9b6466488c101.png" tvg-name="Exotica(18+)"  group-title="Erotice",Exotica(18+)
+http://live.redtraffic.xyz/interracial.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST Shemale(18+)"  group-title="Erotice",AST Shemale(18+)
+https://www.ast.tv/stream/1/cellular.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a5f94ce3c524b30784606815ad330e59.png" tvg-name="Jasmin TV(18+)"  group-title="Erotice",Jasmin TV(18+)
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f561aaf6ef0bf14d4208bb46a4ccb3ad.png" tvg-name="Miami TV(18+)"  group-title="Erotice",Miami TV(18+)
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1d557a00a3b02b2848cf3d5a701c741.png" tvg-name="X TV(18+)"  group-title="Erotice",X TV(18+)
+http://188.35.9.11:21141/udp/214h
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7a3dd1b1de6a97b599768aa52df85a7d.png" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/34098.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c5bc49061e60a98fa6ebc06a0fcd1403.png" tvg-name="Vivid Red TV HD(18+)"  group-title="Erotice",Vivid Red TV HD(18+)
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/34110.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfa3e0729768e459dd2edbea24522af1.png" tvg-name="Redlight HD(18+)" group-title="Erotice",Redlight HD(18+)
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/34160.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d9d367f394c5f8f7688b32c1559a7d76.png" tvg-name="Penthouse HD(18+)"  group-title="Erotice",Penthouse HD(18+)
+http://71ad2a18.iptvbot.ru/iptv/ZVQP7WC8VPT42D/1073/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Vivid TV HD(18+)"  group-title="Erotice",Vivid TV HD(18+)
+http://188.35.9.11:21051/udp/071l
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7cf37d44b1282b26cf4331c95004f67.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/36710.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/49734efbe60a4e666a1b0803e757e82d.png" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://en.kingofsat.net/jpg/alfa-omega.jpg" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
+http://s5.alfaomega.tv:1935/alfaomega/smil:alfaomegatv.smil/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/571003cb3a873f30b3f2c2c1a69987ab.png" tvg-name="Credo TV"  group-title="Religioase",Credo TV
+http://cdn.credonet.tv:1935/ctv/smil:livecredo.smil/playlist.m3u8
