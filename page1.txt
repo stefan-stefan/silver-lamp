@@ -10,7 +10,7 @@ https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 https://sportbar.biz/lba/123/g9/antena1.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33764.ts
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33763.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33772.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
@@ -18,7 +18,7 @@ http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33770.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33785.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
-http://5.255.90.252:5004/play/a072
+http://195.154.118.190:8000/live?channelId=1909&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
 http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33782.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
@@ -88,7 +88,7 @@ https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/486f331f3edd4bd4fc4b78cca2f5b266.png" tvg-name="Super Tennis"  group-title="Sport", Super Tennis
 https://sportbar.biz/lba/OTM3ZDdjOTRmOTI5MmQ3MGYxZDRjMDI3NjFkY2Q3MWY=/g5/itsupertennis.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport"  group-title="Sport",Look Sport
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33815.ts
+http://ch01.spr24.net/22928/mpegts?token=5ES23mKPXV6VrS
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://vsvnad.com:8000/live/ciprian_verincianu/Alin2008/33815.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="Look Sport 2"  group-title="Sport",Look Sport 2
@@ -188,7 +188,7 @@ http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33830.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33830.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://188.214.39.67:1555/vom
+http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33840.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
 http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33847.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
@@ -198,7 +198,7 @@ http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33848.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33849.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://hotpot.pointto.us:22333/redirectS.php?cId=1826&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://51.15.182.49:8000/live?channelId=1826&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33843.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
@@ -382,11 +382,11 @@ http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33866.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1944a5d887eba732b2d93b3b0a439422.png" tvg-name="Gurinel TV"  group-title="Desene",Gurinel TV
 http://live.astvpro.com:8880/live/testrooo/90ogTeA/671.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
-http://82.76.17.74:8001/jimjam
+http://5.130.59.156:81/udp/239.1.3.2:1234
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
 http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33868.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
-http://159.253.168.96:999/udp/239.191.254.75:13343
+http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
 http://vsvnad.com:8000/live/alexandru_chitu/Alin2008/33908.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
