@@ -88,9 +88,9 @@ https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/486f331f3edd4bd4fc4b78cca2f5b266.png" tvg-name="Super Tennis"  group-title="Sport", Super Tennis
 https://sportbar.biz/lba/OTM3ZDdjOTRmOTI5MmQ3MGYxZDRjMDI3NjFkY2Q3MWY=/g5/itsupertennis.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport"  group-title="Sport",Look Sport
-http://ch01.spr24.net/22928/mpegts?token=5ES23mKPXV6VrS
+http://www.sansat.net:25461/live/ntfrm6eq/BeXi9PLRY4/49960.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
-http://vsvnad.com:8000/live/ciprian_verincianu/Alin2008/33815.ts
+http://www.sansat.net:25461/live/ntfrm6eq/BeXi9PLRY4/49961.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="Look Sport 2"  group-title="Sport",Look Sport 2
 http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level(3040870)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport3.png" tvg-name="Look Sport 3"  group-title="Sport",Look Sport 3
