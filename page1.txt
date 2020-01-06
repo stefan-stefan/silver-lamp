@@ -76,7 +76,7 @@ http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34075.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33810.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33810.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33810.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33813.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
@@ -116,7 +116,7 @@ http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38405.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/FOX-Movies.png" tvg-name="Fox Christmas HD"  group-title="Filme",Fox Christmas HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38406.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Supereroi"  group-title="Filme",Magura Media Supereroi
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/37420.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37420.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media VanDamme"  group-title="Filme",Magura Media VanDamme
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37417.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media Kung Fu"  group-title="Filme",Magura Media Kung Fu
@@ -206,7 +206,7 @@ http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33844.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva Universal"  group-title="Filme",Diva Universal
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33839.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33841.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33841.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/15a2e4765dd519171b8e1bf235dfbfc7.png" tvg-name="TV 1000"  group-title="Filme",TV 1000
 http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33838.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
@@ -310,7 +310,7 @@ http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33888.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel HD"  group-title="Wild",Travel Channel HD
 http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33887.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Wild",TLC
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33891.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33891.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Wild",VP HD
 http://89.38.8.130:39437/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5382b51ca47c88d283e818ad2d1e3aca.png" tvg-name="Food Netwoork"  group-title="Wild",Food Netwoork
@@ -322,7 +322,7 @@ http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33895.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/50d4859f871c253cdd38796675a47bb3.png" tvg-name="History HD"  group-title="Wild",History HD
 http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33870.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/cinethronix.png" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/34092.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34092.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2c2b3343e7f4a897741a19505ba3925.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33869.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86f51d924c473a1ec52e292e98680b1a.png" tvg-name="Viasat History"  group-title="Wild",Viasat History
@@ -334,7 +334,7 @@ https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33768.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33768.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33768.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33776.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
@@ -370,7 +370,7 @@ http://5.255.90.252:5004/play/a06a
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
 http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33865.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang HD
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33865.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33865.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33904.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f19b88e6cb8cb067565bb3880b2fb3e1.png" tvg-name="Nick. Jr"  group-title="Desene",Nickelodeon
@@ -378,7 +378,7 @@ http://vsvnad.com:8000/live/bogdan_eu/Alin2008/36719.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33860.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c5a9a9b092e065b4df87d3943593685.png" tvg-name="NickToons"  group-title="Desene",NickToons
-http://vsvnad.com:8000/live/daniel_lazar/Alin2008/33866.ts
+http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33866.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1944a5d887eba732b2d93b3b0a439422.png" tvg-name="Gurinel TV"  group-title="Desene",Gurinel TV
 http://live.astvpro.com:8880/live/testrooo/90ogTeA/671.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
