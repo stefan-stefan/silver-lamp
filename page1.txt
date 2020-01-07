@@ -422,7 +422,7 @@ https://live.dogannet.tv/S2/HLS_LIVE/dreamtv/1000/prog_index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/543f2aceedf95f8ab5c9dc273eae5b25.png" tvg-name="Rapsodia TV"  group-title="Muzica",Rapsodia TV
 rtmp://rapsodia1.arya.ro/live/rapsodiatv1
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/diaspora-tv.png" tvg-name="Diaspora TV"  group-title="Muzica",Diaspora TV
-http://diasporamedia.go.ro:1935/diaspora/mobile/playlist.m3u8
+http://ch.iptvmate.net/22c91b242794817fc5830052c8ef9315.m3u8
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://78.109.108.62:6010/favorit
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
