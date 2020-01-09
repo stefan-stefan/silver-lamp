@@ -50,7 +50,7 @@ https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/954e441ada12cfc3172940b4a4997bba.png" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 http://83.103.145.35:8001/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
-https://mmm.sport7.biz/lba/123/g3/ds1ro.m3u8
+http://ch01.spr24.net/22937/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33797.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
@@ -62,7 +62,7 @@ https://sportbar.biz/lba/abc/g7/digi3ro.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33801.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-https://sportbar.biz/lba/abc/g1/rodigi4.m3u8
+http://ch01.spr24.net/22967/mpegts?token=qEpFWQ3Hys7242
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33803.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
