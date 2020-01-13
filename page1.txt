@@ -384,7 +384,7 @@ http://live.astvpro.com:8880/live/testrooo/90ogTeA/671.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
 http://93.174.163.93:25461/live/zonatv/6JYdEQ4DI9/108.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
-http://93.174.163.93:25461/live/zonatv/6JYdEQ4DI9/107.m3u8
+http://88.198.40.8:25461/live/canaleromanesti/d2TJ0VSgxv/479.m3u8?token=ThsJB0FRGwITAFFQAgkFXANXB1IGXAlXV1FXUVwPUQQMDAReU1oNAARAShRCREBcUl5vXQZHCwIGXx0SEUsDFGpQBUQIGwsJA0BKFEVZX1wRCQAYQBVYUhNcEwJQDFZRFxVDA0pNXEpfAwppVVVEUFBWEg4MEF1aHUReXjtcAwtUVwVECBsJGh1AD0VBEghXRl9cGEAHWEJDB0VVRgJEVAwNWEQeG1pXRAwSREgSCBthfBIYQABJQlQIQlkLVkRcF1RSEwobFRpYETlEVENGS1ZSXVEQRwsUAUQdEglZHjlWVg8IV1pNUV4MFRQLEgIbHxFdWwwMRVlDOUFZABpcRAQMU1MAG0Q=
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
 http://ott-cdn.ucom.am/s58/04.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
