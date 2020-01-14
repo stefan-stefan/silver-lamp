@@ -141,26 +141,28 @@ http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/7841.m3u8
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19254.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://mega.tv/wp-content/themes/megatv2015/images/mega-tv-logo.svg" tvg-name="Mega Action"  group-title="Filme",Mega Action
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19252.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_2e880c5096484481b6a59e5ca6f70822~mv2.gif" tvg-name="FolclorTV Action HD"  group-title="Filme",FolclorTV Action HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38200.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://mega.tv/wp-content/themes/megatv2015/images/mega-tv-logo.svg" tvg-name="Mega Kids"  group-title="Filme",Mega Kids
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19253.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://skynet.am/im/blank_print.png" tvg-name="Skynet Aventura HD"  group-title="Filme",Skynet Aventura HD
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/21343.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://a1.ro/uploads/modules/elements/365/upload_logo.png" tvg-name="HDNet IUmor"  group-title="Filme",HDNet IUmor
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33828.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19398.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Thriller"  group-title="Filme",HDNet Thriller
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33821.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19400.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Sci-Fi"  group-title="Filme",HDNet Sci-Fi
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33822.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19401.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Premiere"  group-title="Filme",HDNet Premiere
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33819.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19402.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/5/51/Logo_Las_Fierbin%C8%9Bi.png" tvg-name="HDNet Las Fierbinti"  group-title="Filme",HDNet Las Fierbinti
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33827.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/7846.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Horror"  group-title="Filme",HDNet Horror
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33823.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19404.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Comedy"  group-title="Filme",HDNet Comedy
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33825.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19406.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Action"  group-title="Filme",HDNet Action
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33820.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19397.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Bollywood"  group-title="Filme",HDNet Bollywood
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33826.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19407.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema HD"  group-title="Filme",VSV Cinema HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38253.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Movie HD"  group-title="Filme",VSV Movie HD
