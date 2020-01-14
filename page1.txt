@@ -163,80 +163,76 @@ http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19406.m3u8
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19397.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.hdnetmovies.com/ui/images/hdnet_programs/fbthumb_hdnetmovies.png" tvg-name="HDNet Bollywood"  group-title="Filme",HDNet Bollywood
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19407.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema HD"  group-title="Filme",VSV Cinema HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38253.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Movie HD"  group-title="Filme",VSV Movie HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37937.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Comedy"  group-title="Filme",VSV Comedy
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38206.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Horror"  group-title="Filme",VSV Horror
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38252.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV SciFi HD"  group-title="Filme",VSV SciFi HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38394.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Bollywood HD"  group-title="Filme",VSV Bollywood HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38400.ts
-#EXTINF:0, tvg-id="" tvg-logo="http://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Desene Animate"  group-title="Filme",VSV Desene animate
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37938.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Christmas"  group-title="Filme",AVB Christmas
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38404.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Action HD"  group-title="Filme",AVB Action HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/37830.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Horror"  group-title="Filme",AVB Horror
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38393.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://m.media-amazon.com/images/I/51+XNrlRIlL._SS500_.jpg" tvg-name="AVB Desene animate"  group-title="Filme",AVB Desene animate
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38204.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://financialit.net/sites/default/files/play2win-ico.jpg" tvg-name="LUC. TV Comedie Clasica"  group-title="Filme",LUC. TV Comedie Clasica
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19417.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://financialit.net/sites/default/files/play2win-ico.jpg" tvg-name="LUC. TV Actiune"  group-title="Filme",LUC. TV Actiune
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19409.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://financialit.net/sites/default/files/play2win-ico.jpg" tvg-name="LUC. TV Kids"  group-title="Filme",LUC. TV Kids
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19408.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://financialit.net/sites/default/files/play2win-ico.jpg" tvg-name="LUC. TV Filme de Colectie"  group-title="Filme",LUC. TV Filme de Colectie
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19410.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://financialit.net/sites/default/files/play2win-ico.jpg" tvg-name="LUC. TV Filme de Colectie Romania"  group-title="Filme",LUC. TV Filme de Colectie Romania
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19411.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://financialit.net/sites/default/files/play2win-ico.jpg" tvg-name="LUC. TV-Two and a half men"  group-title="Filme",LUC. TV-Two and a half men
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19412.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/532232495257747457/bAYR8RdI_400x400.jpeg" tvg-name="Star Movie Action"  group-title="Filme",Star Movie Action
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19413.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/532232495257747457/bAYR8RdI_400x400.jpeg" tvg-name="Star Filme Razboi"  group-title="Filme",Star Filme Razboi
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19414.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/532232495257747457/bAYR8RdI_400x400.jpeg" tvg-name="Star 4k Movie"  group-title="Filme",Star 4k Movie
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19422.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33830.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8100.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33830.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8099.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33840.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8104.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33847.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8091.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33846.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8090.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33848.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8094.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33849.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8092.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://51.15.182.49:8000/live?channelId=1826&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33843.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8101.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33844.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8102.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva Universal"  group-title="Filme",Diva Universal
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33839.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10453.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33841.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10515.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/15a2e4765dd519171b8e1bf235dfbfc7.png" tvg-name="TV 1000"  group-title="Filme",TV 1000
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33838.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10549.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33851.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/20208.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png" tvg-name="TNT"  group-title="Filme",TNT
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33852.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10544.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/da2ee3322bdd3034a556858ec706e70e.png" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33858.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8112.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b818b960f3a29fbd8c315e0c2d58848d.png" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/36463.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8110.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Film Box"  group-title="Filme",Film Box
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33855.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8240.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/46d799bd756a044c4e38bcca61096fe9.png" tvg-name="Film Box Extra HD"  group-title="Filme",Film Box Extra HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33854.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8237.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa1e8832a1b2c29d9950c4899033b08a.png" tvg-name="Film Box Family"  group-title="Filme",Film Box Family
-http://tv.hopto.me:7779/live/FAZT6fn9TV/EH12Vwa7HA/41596.m3u8
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8241.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/06dd1192d55ab64074f190469710e8b4.png" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
 http://193.29.12.221:25461/live/canaleromanesti/d2TJ0VSgxv/78.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b968071e468696313ea4dea83d62b77b.png" tvg-name="Film Box Premium"  group-title="Filme",Film Box Premium
-http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33856.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8242.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2"  group-title="Filme",PRO 2
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33773.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8031.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
@@ -247,12 +243,12 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://medikatv.ro/wp-content/uploads/2019/06/medika_logo.png" tvg-name="Medika TV"  group-title="Wild",Medika TV
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/34083.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://medikatv.ro/wp-content/uploads/2019/06/medika_logo.png" tvg-name="Medika Tv"  group-title="Wild",Medika Tv
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8077.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33884.ts
+http://hotpot.pointto.us:22333/redirectS.php?cId=1816&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33883.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8146.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33882.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
