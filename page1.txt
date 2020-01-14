@@ -8,19 +8,19 @@ http://193.228.153.231:4241/bysid/30
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
-https://sportbar.biz/lba/123/g9/antena1.m3u8
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8038.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8036.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33772.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8045.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33770.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8044.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://51.15.182.49:8000/live?channelId=1912&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
 http://195.154.118.190:8000/live?channelId=1909&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33782.ts
+http://hotpot.pointto.us:22333/redirectS.php?cId=1907&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
@@ -34,11 +34,11 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
 http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/37266.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33779.ts
+http://hotpot.pointto.us:22333/redirectS.php?cId=1917&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33767.ts
+http://hotpot.pointto.us:22333/redirectS.php?cId=1819&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2017/02/01/antena-3-nr-1-in-ziua-cand-guvernul-a-adoptat-oug-care-aduce-modificari-codului-penal-431643.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33766.ts
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8039.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
 #EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit TV"  group-title="Stiri",Profit TV
