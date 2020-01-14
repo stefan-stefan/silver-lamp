@@ -137,10 +137,10 @@ http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19313.m3u8
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19308.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011122270/PZS5HCcU6L1I24ODByAzbRpkIPUF4nObMWQK59gUtXWSEMTBoi90nAwLfmGCGRQmPOdG=s300?v=1" tvg-name="Magura Media 4K"  group-title="Filme",Magura Media 4K
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/7841.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_2e880c5096484481b6a59e5ca6f70822~mv2.gif" tvg-name="FolclorTV Sci-Fi"  group-title="Filme",FolclorTV Sci-Fi
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38202.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_2e880c5096484481b6a59e5ca6f70822~mv2.gif" tvg-name="FolclorTV"  group-title="Filme",FolclorTV
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38201.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://mega.tv/wp-content/themes/megatv2015/images/mega-tv-logo.svg" tvg-name="Mega Comedy"  group-title="Filme",Mega Comedy
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19254.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://mega.tv/wp-content/themes/megatv2015/images/mega-tv-logo.svg" tvg-name="Mega Action"  group-title="Filme",Mega Action
+http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/19252.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_2e880c5096484481b6a59e5ca6f70822~mv2.gif" tvg-name="FolclorTV Action HD"  group-title="Filme",FolclorTV Action HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/38200.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://a1.ro/uploads/modules/elements/365/upload_logo.png" tvg-name="HDNet IUmor"  group-title="Filme",HDNet IUmor
