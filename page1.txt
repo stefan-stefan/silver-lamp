@@ -8,9 +8,9 @@ http://193.228.153.231:4241/bysid/30
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8038.m3u8
+http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3132.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8036.m3u8
+http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/897.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8045.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
@@ -32,7 +32,7 @@ http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fef5adfb682e33d3be5ee5083344414b.png" tvg-name="Realitatea Tv"  group-title="Stiri",Realitatea Tv
 https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8060.m3u8
+http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
 http://hotpot.pointto.us:22333/redirectS.php?cId=1917&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
@@ -184,7 +184,7 @@ http://hotpot.pointto.us:22333/redirectS.php?cId=1904&uId=1043&deviceUser=Raymon
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
 http://hotpot.pointto.us:22333/redirectS.php?cId=1908&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
-http://hotpot.pointto.us:22333/redirectS.php?cId=1905&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://185.162.141.69:9035/protv
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8153.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
@@ -198,7 +198,7 @@ http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33881.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="Discovery ID HD"  group-title="Wild",Discovery ID HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33880.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Extra"  group-title="Wild",Discovery Turbo Extra
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10454.m3u8
+http://94.177.136.29:7478/play/a03b
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Extra"  group-title="Wild",Discovery Turbo Extra HD
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8159.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery ShowCase HD"  group-title="Wild",Discovery ShowCase HD
@@ -222,7 +222,7 @@ http://live.astvpro.com:8880/live/testrooo/90ogTeA/214.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33894.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33873.ts
+http://94.177.136.29:7478/play/a03a
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33874.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
