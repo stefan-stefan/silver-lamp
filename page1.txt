@@ -162,7 +162,7 @@ http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49853.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49855.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://51.15.182.49:8000/live?channelId=1826&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://dreamsmart.me:2082/live/onlenchanelle/P1qiF4mARh/29119.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://timelessdramachannel.com/wp-content/uploads/2019/02/timeless-drama-channel-tdc-dark-logo.png" tvg-name="TDC Channel"  group-title="Filme",TDC Channel
 http://zeroip.tv:8008/live/test54/Alin2008/33820.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
