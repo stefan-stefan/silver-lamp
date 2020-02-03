@@ -280,33 +280,27 @@ http://zeroip.tv:8008/live/test54/Alin2008/33862.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1bcfb810cee704aa1a79058b194303d.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://zeroip.tv:8008/live/test54/Alin2008/33861.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7c8755845c8a22c45293f336eab9f2e.png" tvg-name="Megamax"  group-title="Desene",Megamax
-http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33867.ts
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49912.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
-http://5.255.90.252:5004/play/a06a
+http://zeroip.tv:8008/live/test54/Alin2008/33863.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/33865.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33865.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33865.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9290990e051fb007778dcf2101fc24fe.png" tvg-name="Da Vinci Learning"  group-title="Desene",Da Vinci Learning
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33904.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33904.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f19b88e6cb8cb067565bb3880b2fb3e1.png" tvg-name="Nick. Jr"  group-title="Desene",Nickelodeon
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/36719.ts
+http://zeroip.tv:8008/live/test54/Alin2008/36719.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/913c4858c66af34fc5575fcb46f3fecb.png" tvg-name="Nick. Jr"  group-title="Desene",Nick. Jr
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33860.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33860.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c5a9a9b092e065b4df87d3943593685.png" tvg-name="NickToons"  group-title="Desene",NickToons
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33866.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1944a5d887eba732b2d93b3b0a439422.png" tvg-name="Gurinel TV"  group-title="Desene",Gurinel TV
-http://live.astvpro.com:8880/live/testrooo/90ogTeA/671.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33866.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3121.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/38428.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
-http://88.198.40.8:25461/live/canaleromanesti/d2TJ0VSgxv/479.m3u8?token=ThsJB0FRGwITAFFQAgkFXANXB1IGXAlXV1FXUVwPUQQMDAReU1oNAARAShRCREBcUl5vXQZHCwIGXx0SEUsDFGpQBUQIGwsJA0BKFEVZX1wRCQAYQBVYUhNcEwJQDFZRFxVDA0pNXEpfAwppVVVEUFBWEg4MEF1aHUReXjtcAwtUVwVECBsJGh1AD0VBEghXRl9cGEAHWEJDB0VVRgJEVAwNWEQeG1pXRAwSREgSCBthfBIYQABJQlQIQlkLVkRcF1RSEwobFRpYETlEVENGS1ZSXVEQRwsUAUQdEglZHjlWVg8IV1pNUV4MFRQLEgIbHxFdWwwMRVlDOUFZABpcRAQMU1MAG0Q=
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0f9f2d92c2583ef952556e1f382d0974.png" tvg-name="MULT TV Desene"  group-title="Desene",MULT TV Desene
-http://ott-cdn.ucom.am/s58/04.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33868.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33908.ts
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49887.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33907.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33907.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" tvg-name="Trace Tropical"  group-title="Muzica",Trace Tropical
 https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
@@ -320,7 +314,7 @@ https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/t
 #EXTINF:0, tvg-id="" tvg-logo="https://www.phonostar.de/images/auto_created/Ibiza_Global_Radio184x184.png" tvg-name="Ibiza Global  group-title="Muzica",Ibiza Global
 http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
-http://5.255.90.252:5004/play/a06u
+http://zeroip.tv:8008/live/test54/Alin2008/33908.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/45de33b13919a82e82614c160f25ac43.png" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd50a24b2d4ed40207916b9a32e03512.png" tvg-name="Mooz Dance"  group-title="Muzica",Mooz Dance
@@ -342,7 +336,7 @@ http://ch.iptvmate.net/22c91b242794817fc5830052c8ef9315.m3u8
 #EXTINF:0, tvg-id="raz71" tvg-logo="https://iptv.live/images/logo/channel/smalls/cb23b5210a00cf3cc6d0576c7bc76417.png" tvg-name="Favorit Tv"  group-title="Muzica",Favorit Tv
 http://78.109.108.62:6010/favorit
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3119.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33914.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" tvg-name="Tezaur TV"  group-title="Muzica",Tezaur TV
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Traditional TV"  group-title="Muzica",Traditional TV
@@ -356,7 +350,7 @@ http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.somaxtv.com/wp-content/uploads/2015/04/logo_somax_t3.png" tvg-name="Somax TV"  group-title="Muzica",Somax TV
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e037dec17e950ad06d3786e56cbf310e.png" tvg-name="Taraf"  group-title="Muzica",Taraf TV
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33913.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33913.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.supertv.ro/wp-content/uploads/2019/04/logo-gofm-and-super-tv.png" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
 http://91.235.165.77:8000/play/a002/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
