@@ -129,6 +129,24 @@ http://zeroip.tv:8008/live/test54/Alin2008/37938.ts
 http://zeroip.tv:8008/live/test54/Alin2008/48095.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Jason Statham HD"  group-title="Filme",VSV Jason Statham HD
 http://zeroip.tv:8008/live/test54/Alin2008/48094.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Thriller"  group-title="Filme",HD NET Thriller
+http://zeroip.tv:8008/live/test54/Alin2008/33821.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Sci-Fi"  group-title="Filme",HD NET Sci-Fi
+http://zeroip.tv:8008/live/test54/Alin2008/33822.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Las Fierbinti"  group-title="Filme",HD NET Las Fierbinti
+http://zeroip.tv:8008/live/test54/Alin2008/33827.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Kids"  group-title="Filme",HD NET Kids
+http://zeroip.tv:8008/live/test54/Alin2008/33829.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Family"  group-title="Filme",HD NET Family
+http://zeroip.tv:8008/live/test54/Alin2008/33824.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Jason Statham"  group-title="Filme",HD NET Jason Statham
+http://zeroip.tv:8008/live/test54/Alin2008/50720.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_f5fd42e32b464569a8b332e2457fcc13~mv2.jpg/v1/fill/w_301,h_576,al_c,q_80/logo%20para%20web2.webp" tvg-name="Folclor TV Sci-Fi"  group-title="Filme",Folclor TV Sci-Fi
+http://zeroip.tv:8008/live/test54/Alin2008/38202.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_f5fd42e32b464569a8b332e2457fcc13~mv2.jpg/v1/fill/w_301,h_576,al_c,q_80/logo%20para%20web2.webp" tvg-name="Folclor TV HD"  group-title="Filme",Folclor TV HD
+http://zeroip.tv:8008/live/test54/Alin2008/38201.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_f5fd42e32b464569a8b332e2457fcc13~mv2.jpg/v1/fill/w_301,h_576,al_c,q_80/logo%20para%20web2.webp" tvg-name="Folclor Action HD"  group-title="Filme",Folclor Action HD
+http://zeroip.tv:8008/live/test54/Alin2008/38200.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
@@ -145,6 +163,8 @@ http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49853.m3u8
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49855.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://51.15.182.49:8000/live?channelId=1826&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+#EXTINF:0, tvg-id="" tvg-logo="http://timelessdramachannel.com/wp-content/uploads/2019/02/timeless-drama-channel-tdc-dark-logo.png" tvg-name="TDC Channel"  group-title="Filme",TDC Channel
+http://zeroip.tv:8008/live/test54/Alin2008/33820.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://zeroip.tv:8008/live/test54/Alin2008/33843.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
