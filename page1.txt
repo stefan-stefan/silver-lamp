@@ -12,15 +12,15 @@ http://zeroip.tv:8008/live/test54/Alin2008/33765.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
 http://zeroip.tv:8008/live/test54/Alin2008/33764.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3135.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33772.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8044.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/34064.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3127.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33785.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
-http://195.154.118.190:8000/live?channelId=1909&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://zeroip.tv:8008/live/test54/Alin2008/33787.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
-http://hotpot.pointto.us:22333/redirectS.php?cId=1907&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://zeroip.tv:8008/live/test54/Alin2008/33782.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
@@ -34,11 +34,11 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3138.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33779.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/983.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2017/02/01/antena-3-nr-1-in-ziua-cand-guvernul-a-adoptat-oug-care-aduce-modificari-codului-penal-431643.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8039.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33767.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2016/11/28/antena-1-hd-si-antena-3-hd-de-astazi-in-casele-dumneavoastra-419141.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
+http://zeroip.tv:8008/live/test54/Alin2008/33766.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
 #EXTINF:0, tvg-id="" tvg-logo="http://i0.1616.ro/media/2/2621/33347/18574712/12/profitro-vertical-al.png?width=300" tvg-name="Profit TV"  group-title="Stiri",Profit TV
@@ -50,47 +50,43 @@ https://5ab29cc78f681.streamlock.net:443/nasultvlive/nasultvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/954e441ada12cfc3172940b4a4997bba.png" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 http://83.103.145.35:8001/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8118.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33798.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8117.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33797.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8120.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33800.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/92adaad331dc5c35d364a74c31602112.png" tvg-name="Digi Sport 2 HD"  group-title="Sport",Digi Sport 2 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8119.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33799.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e32999f285d1e3d46912e552246ce190.png" tvg-name="Digi Sport 3"  group-title="Sport",Digi Sport 3
-https://sportbar.biz/lba/abc/g7/digi3ro.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33802.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/0eb2a09013da69c10047c69023907264.png" tvg-name="Digi Sport 3 HD"  group-title="Sport",Digi Sport 3 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8121.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33801.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4"  group-title="Sport",Digi Sport 4
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8124.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33804.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8123.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33803.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8129.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33806.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2 HD"  group-title="Sport",Telekom Sport 2 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8130.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33807.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b9415a2fc2b1b4432e5eeed9ed3eac0c.png" tvg-name="Telekom Sport 3 HD"  group-title="Sport",Telekom Sport 3 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8131.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33808.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b6065c03e02d5f6c6eb6f9fc39c6047.png" tvg-name="Telekom Sport 4 HD"  group-title="Sport",Telekom Sport 4 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8132.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/36709.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8126.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33811.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b09226975f258b7124e2ce9fed72537.png" tvg-name="Eurosport 1 HD"  group-title="Sport",Eurosport 1 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8125.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33810.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8128.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33813.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8127.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33812.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8033.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33818.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/486f331f3edd4bd4fc4b78cca2f5b266.png" tvg-name="Super Tennis"  group-title="Sport", Super Tennis
-https://sportbar.biz/lba/OTM3ZDdjOTRmOTI5MmQ3MGYxZDRjMDI3NjFkY2Q3MWY=/g5/itsupertennis.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport"  group-title="Sport",Look Sport
-http://hotpot.pointto.us:22333/redirectS.php?cId=1892&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8133.m3u8
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49960.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="Look Sport 2"  group-title="Sport",Look Sport 2
 http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level(3040870)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport3.png" tvg-name="Look Sport 3"  group-title="Sport",Look Sport 3
@@ -100,27 +96,27 @@ http://hotpot.pointto.us:22333/redirectS.php?cId=1891&uId=1043&deviceUser=Raymon
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10492.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
-http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49860.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33833.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8095.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/34065.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
-http://hotpot.pointto.us:22333/redirectS.php?cId=1881&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://zeroip.tv:8008/live/test54/Alin2008/33835.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8097.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33834.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
-http://hotpot.pointto.us:22333/redirectS.php?cId=1879&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://zeroip.tv:8008/live/test54/Alin2008/33837.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8098.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33836.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3124.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8099.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/34066.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8104.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33840.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
-http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49854.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33847.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3122.m3u8
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49854.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49853.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
@@ -128,41 +124,37 @@ http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49855.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://51.15.182.49:8000/live?channelId=1826&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3140.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33843.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3123.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33844.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa62f8527389d3b9531faad76d772b9f.png" tvg-name="Diva Universal"  group-title="Filme",Diva Universal
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10453.m3u8
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49883.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/db84fd722b09a6787fd09b7eb55ff6ab.png" tvg-name="Paramount Channel"  group-title="Filme",Paramount Channel
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3126.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33841.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/15a2e4765dd519171b8e1bf235dfbfc7.png" tvg-name="TV 1000"  group-title="Filme",TV 1000
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10549.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33838.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3654b34017508a963ccce2426e91e4cd.png" tvg-name="AMC"  group-title="Filme",AMC
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/979.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33851.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8d69ec6e62b53f3b8aa7ce6b8cd20c00.png" tvg-name="TNT"  group-title="Filme",TNT
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10544.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33852.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/da2ee3322bdd3034a556858ec706e70e.png" tvg-name="Film Cafe"  group-title="Filme",Film Cafe
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8112.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33858.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b818b960f3a29fbd8c315e0c2d58848d.png" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8110.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33859.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1d93833ebdc10c6394d18105e9419915.png" tvg-name="Film Box"  group-title="Filme",Film Box
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8240.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33855.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/46d799bd756a044c4e38bcca61096fe9.png" tvg-name="Film Box Extra HD"  group-title="Filme",Film Box Extra HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8237.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/aa1e8832a1b2c29d9950c4899033b08a.png" tvg-name="Film Box Family"  group-title="Filme",Film Box Family
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8241.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/06dd1192d55ab64074f190469710e8b4.png" tvg-name="Film Box Plus"  group-title="Filme",Film Box Plus
-http://193.29.12.221:25461/live/canaleromanesti/d2TJ0VSgxv/78.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33854.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b968071e468696313ea4dea83d62b77b.png" tvg-name="Film Box Premium"  group-title="Filme",Film Box Premium
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8242.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33856.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/78119e8e985dcd1890fd7ef82280a02b.png" tvg-name="Pro Cinema"  group-title="Filme",Pro Cinema
 https://vid.hls.protv.ro/procineman/procinema_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2"  group-title="Filme",PRO 2
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3133.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33774.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/666bdb756f29cd99c79036421c7d21a4.png" tvg-name="PRO 2 HD"  group-title="Filme",PRO 2 HD
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO Gold"  group-title="Filme",PRO Gold
@@ -173,8 +165,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://medikatv.ro/wp-content/uploads/2019/06/medika_logo.png" tvg-name="Medika Tv"  group-title="Wild",Medika Tv
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8077.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
 http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/981.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
