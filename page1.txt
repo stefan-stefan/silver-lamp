@@ -166,97 +166,95 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(167772
 #EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/981.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33884.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/928263e210a870938bb6d12903c568ef.png" tvg-name="Animal Planet HD"  group-title="Wild",Animal Planet HD
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/896.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33883.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/64decb20124b5e8611c0d3677c3b9318.png" tvg-name="National Geographic"  group-title="Wild",National Geographic
-http://hotpot.pointto.us:22333/redirectS.php?cId=1904&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://zeroip.tv:8008/live/test54/Alin2008/38416.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9919ad31897b9a2b7d6ebff2a5e23db.png" tvg-name="National Geographic HD"  group-title="Wild",National Geographic HD
-http://hotpot.pointto.us:22333/redirectS.php?cId=1908&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://zeroip.tv:8008/live/test54/Alin2008/38417.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cc5a6224736580f81db138bd0333079b.png" tvg-name="Nat Geo Wild"  group-title="Wild",Nat Geo Wild
 http://185.162.141.69:9035/protv
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/09f3e55d09d705c6b987fa46c2989d69.png" tvg-name="Nat Geo Wild HD"  group-title="Wild",Nat Geo Wild HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8153.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33882.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8157.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33879.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
 http://94.177.136.29:7478/play/a039
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
-http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/34078.ts
+http://zeroip.tv:8008/live/test54/Alin2008/34078.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="Discovery ID"  group-title="Wild",Discovery ID
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33881.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33881.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="Discovery ID HD"  group-title="Wild",Discovery ID HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33880.ts
+http://zeroip.tv:8008/live/test54/Alin2008/38427.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Extra"  group-title="Wild",Discovery Turbo Extra
 http://94.177.136.29:7478/play/a03b
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Extra"  group-title="Wild",Discovery Turbo Extra HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8159.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33875.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery ShowCase HD"  group-title="Wild",Discovery ShowCase HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8158.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33878.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation"  group-title="Wild",Crime Investigation
+http://zeroip.tv:8008/live/test54/Alin2008/33880.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49851.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
-http://vsvnad.com:8000/live/irimia_nicusor/Alin2008/36573.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33899.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33902.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33902.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life HD"  group-title="Wild",Digi Life HD
-http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33901.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33901.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33898.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33898.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Wild",Digi Animal World HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33897.ts
+http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49929
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0a1d990896e36d9c5611fad3b2c97ea0.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33892.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33892.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox"  group-title="Wild",DocuBox HD
-http://live.astvpro.com:8880/live/testrooo/90ogTeA/214.ts
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49882.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33894.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33894.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
 http://94.177.136.29:7478/play/a03a
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33874.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33877.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33877.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Wild",E! Entertainment HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33876.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33876.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix"  group-title="Wild",Travel Mix
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33889.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7c8e496fe3c8465b4046cc1d768a2133.png" tvg-name="Travel Mix HD"  group-title="Wild",Travel Mix HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33889.ts
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1bee82147f8df51adfd25ddfbc1fa82.png" tvg-name="Travel Channel"  group-title="Wild",Travel Channel
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33888.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33889.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ddbbdd621053ea42ff51d433e4bfa0a6.png" tvg-name="Travel Channel HD"  group-title="Wild",Travel Channel HD
-http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33887.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33887.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/017a544acb713ac3b4c46402c94a07fc.png" tvg-name="TLC"  group-title="Wild",TLC
-http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3120.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33891.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.vptv.ro/wp-content/uploads/2016/02/sigla-vp-tv.gif" tvg-name="VP HD"  group-title="Wild",VP HD
 http://89.38.8.130:39437/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5382b51ca47c88d283e818ad2d1e3aca.png" tvg-name="Food Netwoork"  group-title="Wild",Food Netwoork
-http://live.astvpro.com:8880/live/testrooo/90ogTeA/242.ts
+http://zeroip.tv:8008/live/test54/Alin2008/38426.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f764e7fd41d145baf85a911201a35b0b.png" tvg-name="TV Paprika"  group-title="Wild",TV Paprika
 http://188.214.39.67:14555/pap
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3cd15f8f2940aff879df34df4e5c2cd1.png" tvg-name="History"  group-title="Wild",History
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33895.ts
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49934.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/50d4859f871c253cdd38796675a47bb3.png" tvg-name="History HD"  group-title="Wild",History HD
-http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33870.ts
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49935.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/cinethronix.png" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34092.ts
+http://zeroip.tv:8008/live/test54/Alin2008/34092.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2c2b3343e7f4a897741a19505ba3925.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33869.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33869.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86f51d924c473a1ec52e292e98680b1a.png" tvg-name="Viasat History"  group-title="Wild",Viasat History
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/36713.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33871.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee33374740fbb7bc5d8927997a7c930d.png" tvg-name="Viasat Explorer"  group-title="Wild",Viasat Explorer
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8160.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33872.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://idatv.ro/wp-content/uploads/2018/04/IDA-tv-logo-min.jpg" tvg-name="IDA TV HD"  group-title="Wild",IDA TV HD
 https://tinyurl.com/y9k7rbje
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars"  group-title="Diverse",Antena Stars
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/984.m3u8
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49846.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33768.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33768.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49859.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
-http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33776.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33776.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
 http://stream1.antenaplay.ro/live/smil:CookPlay.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://assets.antenaplay.ro/2019/02/08/ASCEI8MhBY2ItX0av7KS.png" tvg-name="Antena Monden"  group-title="Diverse",Antena Monden
@@ -270,17 +268,17 @@ http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/859c1d753b0d0ed6d83ed0b03cdc2c23.png" tvg-name="TVR 3"  group-title="Diverse",TVR 3
 http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
 #EXTINF:0, tvg-id="raz15" tvg-logo="https://iptv.live/images/logo/channel/smalls/58301a625c19be6871c1f3f992e534c4.png" tvg-name="TVR International"  group-title="Diverse",TVR International
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33793.ts
+http://zeroip.tv:8008/live/test54/Alin2008/37437.ts
 #EXTINF:0, tvg-id="raz47" tvg-logo="https://iptv.live/images/logo/channel/smalls/d277e55bff631b0848374dd0858df0aa.png" tvg-name="PRO TV International"  group-title="Diverse",PRO TV International
 http://78.109.108.62:2001/protv
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c05054b76b74ce6692c6bfe735c734aa.png" tvg-name="Tele III"  group-title="Diverse",Tele III
 http://webmobile.xdev.ro:81/tv16/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/87dfc97a7654b4b7ad9f04767361eca9.png" tvg-name="Cartoon Network"  group-title="Desene",Cartoon Network
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33864.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33864.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6bee7677af2813c27e06499b0ac63cce.png" tvg-name="Disney Channel"  group-title="Desene",Disney Channel
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33862.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33862.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1bcfb810cee704aa1a79058b194303d.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33861.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33861.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7c8755845c8a22c45293f336eab9f2e.png" tvg-name="Megamax"  group-title="Desene",Megamax
 http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33867.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
