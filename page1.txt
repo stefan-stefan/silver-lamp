@@ -107,6 +107,28 @@ http://zeroip.tv:8008/live/test54/Alin2008/33834.ts
 http://zeroip.tv:8008/live/test54/Alin2008/33837.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
 http://zeroip.tv:8008/live/test54/Alin2008/33836.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Christmas HD"  group-title="Filme",VSV Christmas HD
+http://zeroip.tv:8008/live/test54/Alin2008/38407.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema 4K"  group-title="Filme",VSV Cinema 4K
+http://zeroip.tv:8008/live/test54/Alin2008/38772.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cinema FHD"  group-title="Filme",VSV Cinema FHD
+http://zeroip.tv:8008/live/test54/Alin2008/38253.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Action HD"  group-title="Filme",VSV Action HD
+http://zeroip.tv:8008/live/test54/Alin2008/38769.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Comedy HD"  group-title="Filme",VSV Comedy HD
+http://zeroip.tv:8008/live/test54/Alin2008/38206.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Horror HD"  group-title="Filme",VSV Horror HD
+http://zeroip.tv:8008/live/test54/Alin2008/38252.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Sci-Fi HD"  group-title="Filme",VSV Sci-Fi HD
+http://zeroip.tv:8008/live/test54/Alin2008/38394.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Bollywood HD"  group-title="Filme",VSV Bollywood HD
+http://zeroip.tv:8008/live/test54/Alin2008/38400.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Cartoons HD"  group-title="Filme",VSV Cartoons HD
+http://zeroip.tv:8008/live/test54/Alin2008/37938.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Robert de Niro HD"  group-title="Filme",VSV Robert de Niro HD
+http://zeroip.tv:8008/live/test54/Alin2008/48095.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Jason Statham HD"  group-title="Filme",VSV Jason Statham HD
+http://zeroip.tv:8008/live/test54/Alin2008/48094.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
