@@ -10,7 +10,7 @@ https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3132.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
-http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/897.ts
+http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/897.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3135.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
@@ -100,7 +100,7 @@ http://hotpot.pointto.us:22333/redirectS.php?cId=1891&uId=1043&deviceUser=Raymon
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10492.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
-http://hotpot.pointto.us:22333/redirectS.php?cId=1880&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49860.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8095.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
@@ -118,13 +118,13 @@ http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8099.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7029e67f22d8a43ab8d1b3deb896249.png" tvg-name="Comedy Central"  group-title="Filme",Comedy Central
 http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8104.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/625fa0bfdb706073072b1d52884d47c6.png" tvg-name="AXN"  group-title="Filme",AXN
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8091.m3u8
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49854.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2f1e4c2a90f7b62293b31a99dfb4cf52.png" tvg-name="AXN HD"  group-title="Filme",AXN HD
 http://myiptv.ddns.me:5000/live/emanuel/emrodaloho/3122.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8094.m3u8
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49853.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/8092.m3u8
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49855.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://51.15.182.49:8000/live?channelId=1826&uid=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
@@ -264,7 +264,7 @@ http://local.homedreams.club:8000/live/WJOrkzOFwu/TUNlOHr0hH/984.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33768.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33776.ts
+http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49859.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://vsvnad.com:8000/live/munteanu_georghe/Alin2008/33776.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
