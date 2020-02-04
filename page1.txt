@@ -163,8 +163,6 @@ http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49853.m3u8
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49855.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://dreamsmart.me:2082/live/onlenchanelle/P1qiF4mARh/29119.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://timelessdramachannel.com/wp-content/uploads/2019/02/timeless-drama-channel-tdc-dark-logo.png" tvg-name="TDC Channel"  group-title="Filme",TDC Channel
-http://zeroip.tv:8008/live/test54/Alin2008/33820.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://zeroip.tv:8008/live/test54/Alin2008/33843.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
@@ -205,6 +203,8 @@ https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classic"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bizbrasov.ro/wp-content/uploads/2018/10/Digi-4K.jpg?resize=640%2C352" tvg-name="Digi 4K"  group-title="Wild",Digi 4K
+http://zeroip.tv:8008/live/test54/Alin2008/34585.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia World"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
