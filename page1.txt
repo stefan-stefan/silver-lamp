@@ -161,6 +161,36 @@ http://zeroip.tv:8008/live/test54/Alin2008/38201.ts
 http://zeroip.tv:8008/live/test54/Alin2008/38200.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Family Time"  group-title="Filme",Magura Media Family Time
 http://zeroip.tv:8008/live/test54/Alin2008/48207.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Jackie Chan"  group-title="Filme",Magura Media Jackie Chan
+http://zeroip.tv:8008/live/test54/Alin2008/48206.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Sylvester Stallone"  group-title="Filme",Magura Media Sylvester Stallone
+http://zeroip.tv:8008/live/test54/Alin2008/38771.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media van Damme"  group-title="Filme",Magura Media van Damme
+http://zeroip.tv:8008/live/test54/Alin2008/37417.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Keanu Reeves"  group-title="Filme",Magura Media Keanu Reeves
+http://zeroip.tv:8008/live/test54/Alin2008/48287.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Bruce Willis"  group-title="Filme",Magura Media Bruce Willis
+http://zeroip.tv:8008/live/test54/Alin2008/48289.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Supereroi"  group-title="Filme",Magura Media Supereroi
+http://zeroip.tv:8008/live/test54/Alin2008/37420.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Kids"  group-title="Filme",Magura Media Kids
+http://zeroip.tv:8008/live/test54/Alin2008/37410.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Istoric"  group-title="Filme",Magura Media Istoric
+http://zeroip.tv:8008/live/test54/Alin2008/37411.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Comedy"  group-title="Filme",Magura Media Comedy
+http://zeroip.tv:8008/live/test54/Alin2008/37416.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Cinema"  group-title="Filme",Magura Media Cinema
+http://zeroip.tv:8008/live/test54/Alin2008/37413.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Action"  group-title="Filme",Magura Media Action
+http://zeroip.tv:8008/live/test54/Alin2008/37409.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media 4K"  group-title="Filme",Magura Media 4K
+http://zeroip.tv:8008/live/test54/Alin2008/37414.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Horror"  group-title="Filme",Magura Media Horror
+http://zeroip.tv:8008/live/test54/Alin2008/38401.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Filme Religioase"  group-title="Filme",Magura Media Filme Religioase
+http://zeroip.tv:8008/live/test54/Alin2008/48308.ts
+
+
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
