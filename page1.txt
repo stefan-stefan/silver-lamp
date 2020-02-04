@@ -191,6 +191,14 @@ http://zeroip.tv:8008/live/test54/Alin2008/38401.ts
 http://zeroip.tv:8008/live/test54/Alin2008/48308.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Christmas"  group-title="Filme",AVB Media Christmas
 http://zeroip.tv:8008/live/test54/Alin2008/38404.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Action FHD"  group-title="Filme",AVB Media Action FHD
+http://zeroip.tv:8008/live/test54/Alin2008/37830.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Cartoons"  group-title="Filme",AVB Media Cartoons
+http://zeroip.tv:8008/live/test54/Alin2008/38204.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Horror"  group-title="Filme",AVB Media Horror
+http://zeroip.tv:8008/live/test54/Alin2008/38393.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Mynele"  group-title="Filme",AVB Media Mynele
+http://zeroip.tv:8008/live/test54/Alin2008/37829.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
