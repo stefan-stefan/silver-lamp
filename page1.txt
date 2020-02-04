@@ -129,24 +129,38 @@ http://zeroip.tv:8008/live/test54/Alin2008/37938.ts
 http://zeroip.tv:8008/live/test54/Alin2008/48095.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Jason Statham HD"  group-title="Filme",VSV Jason Statham HD
 http://zeroip.tv:8008/live/test54/Alin2008/48094.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET IUmor"  group-title="Filme",HD NET IUmor
+http://zeroip.tv:8008/live/test54/Alin2008/33828.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Thriller"  group-title="Filme",HD NET Thriller
 http://zeroip.tv:8008/live/test54/Alin2008/33821.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Sci-Fi"  group-title="Filme",HD NET Sci-Fi
 http://zeroip.tv:8008/live/test54/Alin2008/33822.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Premiere"  group-title="Filme",HD NET Premiere
+http://zeroip.tv:8008/live/test54/Alin2008/33819.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Las Fierbinti"  group-title="Filme",HD NET Las Fierbinti
 http://zeroip.tv:8008/live/test54/Alin2008/33827.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Kids"  group-title="Filme",HD NET Kids
 http://zeroip.tv:8008/live/test54/Alin2008/33829.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Horror"  group-title="Filme",HD NET Horror
+http://zeroip.tv:8008/live/test54/Alin2008/33823.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Comedy"  group-title="Filme",HD NET Comedy
+http://zeroip.tv:8008/live/test54/Alin2008/33825.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Family"  group-title="Filme",HD NET Family
 http://zeroip.tv:8008/live/test54/Alin2008/33824.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Action"  group-title="Filme",HD NET Action
+http://zeroip.tv:8008/live/test54/Alin2008/33820.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Jason Statham"  group-title="Filme",HD NET Jason Statham
 http://zeroip.tv:8008/live/test54/Alin2008/50720.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Arnold Schwarzenegger"  group-title="Filme",HD NET Arnold Schwarzenegger
+http://zeroip.tv:8008/live/test54/Alin2008/50721.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_f5fd42e32b464569a8b332e2457fcc13~mv2.jpg/v1/fill/w_301,h_576,al_c,q_80/logo%20para%20web2.webp" tvg-name="Folclor TV Sci-Fi"  group-title="Filme",Folclor TV Sci-Fi
 http://zeroip.tv:8008/live/test54/Alin2008/38202.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_f5fd42e32b464569a8b332e2457fcc13~mv2.jpg/v1/fill/w_301,h_576,al_c,q_80/logo%20para%20web2.webp" tvg-name="Folclor TV HD"  group-title="Filme",Folclor TV HD
 http://zeroip.tv:8008/live/test54/Alin2008/38201.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://static.wixstatic.com/media/822a0a_f5fd42e32b464569a8b332e2457fcc13~mv2.jpg/v1/fill/w_301,h_576,al_c,q_80/logo%20para%20web2.webp" tvg-name="Folclor Action HD"  group-title="Filme",Folclor Action HD
 http://zeroip.tv:8008/live/test54/Alin2008/38200.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Family Time"  group-title="Filme",Magura Media Family Time
+http://zeroip.tv:8008/live/test54/Alin2008/48207.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
