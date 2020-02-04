@@ -92,9 +92,9 @@ http://tv-he.orange.ro/shls/LIVE$ott_1102/10.m3u8/Level(3040870)?start=LIVE&end=
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport3.png" tvg-name="Look Sport 3"  group-title="Sport",Look Sport 3
 http://tv-he.orange.ro/shls/LIVE$ott_1103/10.m3u8/Level(3040870)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="Look Plus"  group-title="Sport",Look Plus
-http://hotpot.pointto.us:22333/redirectS.php?cId=1891&uId=1043&deviceUser=Raymond&devicePass=lfGKia04esztOAFm
+http://zeroip.tv:8008/live/test54/Alin2008/33816.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="Look Plus HD"  group-title="Sport",Look Plus HD
-http://provider-tv.xyz:8080/live/RESTREAM_NIKA/z3SYJhhafW/10492.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33815.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://zeroip.tv:8008/live/test54/Alin2008/33833.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
@@ -214,7 +214,7 @@ http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49853.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49855.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
-http://dreamsmart.me:2082/live/onlenchanelle/P1qiF4mARh/29119.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33850.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
 http://zeroip.tv:8008/live/test54/Alin2008/33843.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
@@ -310,7 +310,7 @@ http://zeroip.tv:8008/live/test54/Alin2008/33894.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
 http://94.177.136.29:7478/play/a03a
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/33874.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33874.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
 http://zeroip.tv:8008/live/test54/Alin2008/33877.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment HD"  group-title="Wild",E! Entertainment HD
@@ -494,7 +494,7 @@ https://canalregional.md/tv/live/canalregional.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tv-sud-est.png" tvg-name="TVSE HD"  group-title="Locale",TVSE HD
 http://89.38.8.130:39419/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Super One HD(18+)"  group-title="Erotice",Super One HD(18+)
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34100.ts
+http://zeroip.tv:8008/live/test54/Alin2008/34100.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.ast.tv/img/ast-tv_logo-beta.png" tvg-name="AST TV(18+)"  group-title="Erotice",AST TV(18+)
 https://www.ast.tv/stream/2/normal.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee3a3d059b0289892dd9b6466488c101.png" tvg-name="Exotica(18+)"  group-title="Erotice",Exotica(18+)
@@ -508,9 +508,9 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1d557a00a3b02b2848cf3d5a701c741.png" tvg-name="X TV(18+)"  group-title="Erotice",X TV(18+)
 http://188.35.9.11:21141/udp/214h
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7a3dd1b1de6a97b599768aa52df85a7d.png" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34098.ts
+http://zeroip.tv:8008/live/test54/Alin2008/34490.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c5bc49061e60a98fa6ebc06a0fcd1403.png" tvg-name="Vivid Red TV HD(18+)"  group-title="Erotice",Vivid Red TV HD(18+)
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34110.ts
+http://zeroip.tv:8008/live/test54/Alin2008/34160.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfa3e0729768e459dd2edbea24522af1.png" tvg-name="Redlight HD(18+)" group-title="Erotice",Redlight HD(18+)
 http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34160.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d9d367f394c5f8f7688b32c1559a7d76.png" tvg-name="Penthouse HD(18+)"  group-title="Erotice",Penthouse HD(18+)
