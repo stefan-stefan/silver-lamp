@@ -189,8 +189,8 @@ http://zeroip.tv:8008/live/test54/Alin2008/37414.ts
 http://zeroip.tv:8008/live/test54/Alin2008/38401.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLm1hZ3VyYS5zdGFsa2VyX2ljb25fMTU0NzQ3NzgyMl8wNzA/icon.png?w=170&fakeurl=1" tvg-name="Magura Media Filme Religioase"  group-title="Filme",Magura Media Filme Religioase
 http://zeroip.tv:8008/live/test54/Alin2008/48308.ts
-
-
+#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Christmas"  group-title="Filme",AVB Media Christmas
+http://zeroip.tv:8008/live/test54/Alin2008/38404.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
