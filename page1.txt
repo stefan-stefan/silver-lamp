@@ -212,7 +212,7 @@ http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49854.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/62f98086810ed0bf9e3004a9129a2828.png" tvg-name="AXN White"  group-title="Filme",AXN White
 http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49853.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4258c8c8b14e57d8657a43e2358cc0d0.png" tvg-name="AXN Black"  group-title="Filme",AXN Black
-http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49855.m3u8
+http://clientportal.link:80/live/h7O43Qi515/yDf9li867/14661.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://zeroip.tv:8008/live/test54/Alin2008/33850.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
