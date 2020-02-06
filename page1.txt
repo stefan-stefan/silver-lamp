@@ -80,7 +80,7 @@ http://clientportal.link:80/live/h7O43Qi515/yDf9li867/14609.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://zeroip.tv:8008/live/test54/Alin2008/33813.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
-http://zeroip.tv:8008/live/test54/Alin2008/33812.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33810.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
 http://zeroip.tv:8008/live/test54/Alin2008/33818.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
@@ -201,6 +201,10 @@ http://zeroip.tv:8008/live/test54/Alin2008/38204.ts
 http://zeroip.tv:8008/live/test54/Alin2008/38393.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/avb.jpg" tvg-name="AVB Media Mynele"  group-title="Filme",AVB Media Mynele
 http://zeroip.tv:8008/live/test54/Alin2008/37829.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://3.bp.blogspot.com/-OuQCRnOTCjY/XKWtzjGJnsI/AAAAAAAA23I/NiQO36FquMsY2cfT1dg7bwB8b0lcUCs-gCLcBGAs/s1600/TDC%2BLogo.png" tvg-name="Timeless Drama Channel"  group-title="Filme",Timeless Drama Channel
+http://zeroip.tv:8008/live/test54/Alin2008/50719.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://3.bp.blogspot.com/-OuQCRnOTCjY/XKWtzjGJnsI/AAAAAAAA23I/NiQO36FquMsY2cfT1dg7bwB8b0lcUCs-gCLcBGAs/s1600/TDC%2BLogo.png" tvg-name="Timeless Drama Channel"  group-title="Filme",Timeless Drama Channel HD
+http://zeroip.tv:8008/live/test54/Alin2008/50718.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now"  group-title="Filme",Film Now
 http://zeroip.tv:8008/live/test54/Alin2008/33831.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4b5c7c442595d693421544268cd2205.png" tvg-name="Film Now HD"  group-title="Filme",Film Now HD
@@ -332,7 +336,7 @@ http://188.214.39.67:14555/pap
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3cd15f8f2940aff879df34df4e5c2cd1.png" tvg-name="History"  group-title="Wild",History
 http://clientportal.link:80/live/h7O43Qi515/yDf9li867/14603.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/50d4859f871c253cdd38796675a47bb3.png" tvg-name="History HD"  group-title="Wild",History HD
-http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49935.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/33895.ts
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/cinethronix.png" tvg-name="Cinethronix"  group-title="Wild",Cinethronix
 http://zeroip.tv:8008/live/test54/Alin2008/34092.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e2c2b3343e7f4a897741a19505ba3925.png" tvg-name="Viasat Nature"  group-title="Wild",Viasat Nature
