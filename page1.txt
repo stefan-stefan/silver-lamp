@@ -306,7 +306,7 @@ http://zeroip.tv:8008/live/test54/Alin2008/33901.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World"  group-title="Wild",Digi Animal World
 http://zeroip.tv:8008/live/test54/Alin2008/33898.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/276e39cde3b18b92ce1b22ce681db872.png" tvg-name="Digi Animal World HD"  group-title="Wild",Digi Animal World HD
-http://www.sansat.net:25461/029967155160/3BoMkfwLJBueaHN/49929
+http://zeroip.tv:8008/live/test54/Alin2008/33897.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0a1d990896e36d9c5611fad3b2c97ea0.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
 http://zeroip.tv:8008/live/test54/Alin2008/33892.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox"  group-title="Wild",DocuBox HD
