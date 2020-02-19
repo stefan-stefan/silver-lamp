@@ -86,7 +86,7 @@ http://zeroip.tv:8008/live/test54/Alin2008/33818.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport"  group-title="Sport",Look Sport
-http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49960.m3u8
+http://www.esuniptv.com:5555/live/12x0211q31/eTav7XaPcx/70779.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="Look Sport HD"  group-title="Sport",Look Sport HD
 http://clientportal.link:80/live/SamsungSmat/jC3Uri2970/27539.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="Look Sport 2"  group-title="Sport",Look Sport 2
