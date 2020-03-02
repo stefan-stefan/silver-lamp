@@ -14,7 +14,7 @@ http://zeroip.tv:8008/live/test54/Alin2008/33764.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://zeroip.tv:8008/live/test54/Alin2008/33772.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0e26bd20b53e9533a8fd15d21a7d893a.png" tvg-name="Kanal D HD"  group-title="Generale",Kanal D HD
-http://zeroip.tv:8008/live/test54/Alin2008/34064.ts
+http://zeroip.tv:8008/live/test54/Alin2008/33771.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/632cd17291a8f4df6434c8de71bb9e49.png" tvg-name="Prima TV"  group-title="Generale",Prima TV
 http://zeroip.tv:8008/live/test54/Alin2008/33785.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b98bf56bcb1f471b0da6c3b0bff6013f.png" tvg-name="National TV"  group-title="Generale",National TV
