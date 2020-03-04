@@ -9,9 +9,9 @@ http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9270.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="Pro TV HD"  group-title="Generale",Pro TV HD
 https://vid.hls.protv.ro/protvhdn/protvhd_3_34/index.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena1"  group-title="Generale",Antena1
 http://zeroip.tv:8008/live/test54/Alin2008/33765.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena1 HD
 http://zeroip.tv:8008/live/test54/Alin2008/33764.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/05396097d1129c03a6b67dae6d0db433.png" tvg-name="Kanal D"  group-title="Generale",Kanal D
 http://zeroip.tv:8008/live/test54/Alin2008/33772.m3u8
