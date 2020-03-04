@@ -37,9 +37,9 @@ https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="Romania TV"  group-title="Stiri",Romania TV
 http://zeroip.tv:8008/live/test54/Alin2008/33779.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena 3
+#EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/antena-3.png" tvg-name="Antena 3"  group-title="Stiri",Antena3
 http://zeroip.tv:8008/live/test54/Alin2008/33767.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2016/11/28/antena-1-hd-si-antena-3-hd-de-astazi-in-casele-dumneavoastra-419141.jpg" tvg-name="Antena 3 HD"  group-title="Stiri",Antena 3 HD
+#EXTINF:0, tvg-id="" tvg-logo="https://www.antena3.ro/thumbs/big3/2016/11/28/antena-1-hd-si-antena-3-hd-de-astazi-in-casele-dumneavoastra-419141.jpg" tvg-name="Antena3 HD"  group-title="Stiri",Antena 3 HD
 http://zeroip.tv:8008/live/test54/Alin2008/33766.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://keygroup.ro/wp-content/uploads/2016/02/canal33-x150px.png" tvg-name="CANAL 33"  group-title="Stiri",CANAL 33
 https://fms-https1.mediadirect.ro/live3/_definst_/canal33.smil/playlist.m3u8?publisher=83
