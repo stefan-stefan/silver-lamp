@@ -82,7 +82,7 @@ http://zeroip.tv:8008/live/test54/Alin2008/33810.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f25c655f7d3425dc5569afd90b0042ba.png" tvg-name="Eurosport 2"  group-title="Sport",Eurosport 2
 http://zeroip.tv:8008/live/test54/Alin2008/33813.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport 2 HD"  group-title="Sport",Eurosport 2 HD
-http://zeroip.tv:8008/live/test54/Alin2008/33810.m3u8
+http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1658.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
 http://zeroip.tv:8008/live/test54/Alin2008/33818.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
@@ -153,20 +153,10 @@ http://zeroip.tv:8008/live/test54/Alin2008/33829.m3u8
 http://zeroip.tv:8008/live/test54/Alin2008/33823.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Comedy"  group-title="Filme",HD NET Comedy
 http://zeroip.tv:8008/live/test54/Alin2008/33825.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Family"  group-title="Filme",HD NET Family
-http://zeroip.tv:8008/live/test54/Alin2008/33824.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Action"  group-title="Filme",HD NET Action
 http://zeroip.tv:8008/live/test54/Alin2008/33820.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Jason Statham"  group-title="Filme",HD NET Jason Statham
-http://zeroip.tv:8008/live/test54/Alin2008/50720.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Arnold Schwarzenegger"  group-title="Filme",HD NET Arnold Schwarzenegger
 http://zeroip.tv:8008/live/test54/Alin2008/50721.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/folclor-tv.png" tvg-name="Folclor TV Sci-Fi"  group-title="Filme",Folclor TV Sci-Fi
-http://zeroip.tv:8008/live/test54/Alin2008/38202.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/folclor-tv.png" tvg-name="Folclor TV HD"  group-title="Filme",Folclor TV HD
-http://zeroip.tv:8008/live/test54/Alin2008/38201.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/folclor-tv.png" tvg-name="Folclor Action HD"  group-title="Filme",Folclor Action HD
-http://zeroip.tv:8008/live/test54/Alin2008/38200.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Family Time"  group-title="Filme",Magura Media Family Time
 http://zeroip.tv:8008/live/test54/Alin2008/48207.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Jackie Chan"  group-title="Filme",Magura Media Jackie Chan
@@ -520,13 +510,13 @@ http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1d557a00a3b02b2848cf3d5a701c741.png" tvg-name="X TV(18+)"  group-title="Erotice",X TV(18+)
 http://188.35.9.11:21141/udp/214h
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7a3dd1b1de6a97b599768aa52df85a7d.png" tvg-name="Private TV HD(18+)"  group-title="Erotice",Private TV HD(18+)
-http://zeroip.tv:8008/live/test54/Alin2008/34490.m3u8
+http://zeroip.tv:8008/live/test54/Alin2008/34098.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/c5bc49061e60a98fa6ebc06a0fcd1403.png" tvg-name="Vivid Red TV HD(18+)"  group-title="Erotice",Vivid Red TV HD(18+)
 http://zeroip.tv:8008/live/test54/Alin2008/34160.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfa3e0729768e459dd2edbea24522af1.png" tvg-name="Redlight HD(18+)" group-title="Erotice",Redlight HD(18+)
-http://vsvnad.com:8000/live/bogdan_eu/Alin2008/34160.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d9d367f394c5f8f7688b32c1559a7d76.png" tvg-name="Penthouse HD(18+)"  group-title="Erotice",Penthouse HD(18+)
-http://71ad2a18.iptvbot.ru/iptv/ZVQP7WC8VPT42D/1073/index.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfa3e0729768e459dd2edbea24522af1.png" tvg-name="Penthouse Gold(18+)" group-title="Erotice",Penthouse Gold(18+)
+http://zeroip.tv:8008/live/test54/Alin2008/34102.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d9d367f394c5f8f7688b32c1559a7d76.png" tvg-name="Redlight HD(18+)"  group-title="Erotice",Redlight HD(18+)
+http://zeroip.tv:8008/live/test54/Alin2008/34160.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Vivid TV HD(18+)"  group-title="Erotice",Vivid TV HD(18+)
 http://188.35.9.11:21051/udp/071l
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7cf37d44b1282b26cf4331c95004f67.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
