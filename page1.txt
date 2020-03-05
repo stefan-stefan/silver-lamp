@@ -23,11 +23,11 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33785.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33787.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/6c4b93dc5601fce04fe31e07b583a427.png" tvg-name="National 24 Plus"  group-title="Generale",National 24 Plus
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33782.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 Tv"  group-title="Generale",B1 Tv
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d4afff9e26a15c6b9ec5551c78085a3c.png" tvg-name="B1 TV"  group-title="Generale",B1 Tv
 http://stream.adunity.com/b1/b1.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/56/Pro_TV_News_logo_2017.png/revision/latest?cb=20171005155753" tvg-name="ProTV News"  group-title="Generale",ProTV News
 http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="ProTV Chisinau HD"  group-title="Generale",ProTV Chisinau HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="Pro TV"  group-title="Generale",Pro TV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi24"  group-title="Stiri",Digi 24 HD
 http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
