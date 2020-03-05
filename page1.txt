@@ -83,7 +83,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33810.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33813.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00295a368675482110dbe435465bba33.png" tvg-name="Eurosport2 - România HD"  group-title="Sport",Eurosport2 - România HD
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1658.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X"  group-title="Sport",Pro X
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="PRO X"  group-title="Sport",PRO X
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33818.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
