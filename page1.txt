@@ -391,6 +391,8 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33860.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33866.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38428.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://miro.medium.com/max/4790/1*5Xgetha9-iIJP-wXwlGx_Q.png" tvg-name="Tom&Jerry"  group-title="Desene",Tom&Jerry
+http://212.8.252.59:88/live/nam/nam/6471.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33868.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
