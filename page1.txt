@@ -217,7 +217,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33848.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33849.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/48bd5da2142f35685c4f43ad7ebb49ad.png" tvg-name="AXN Spin"  group-title="Filme",AXN Spin
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33850.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="Cinemax"  group-title="Filme",Cinemax
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/9b483584a8f77ed3094a2b82b11d35e2.png" tvg-name="CineMAX"  group-title="Filme",Cinemax
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33843.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ef9a1649e939582e993a2efcfdee5eb1.png" tvg-name="Cinemax 2"  group-title="Filme",Cinemax 2
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33844.m3u8
