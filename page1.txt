@@ -99,18 +99,20 @@ http://94.177.136.29:7478/play/a03k
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33816.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ebf6df2a9868dded718dcf1f1a78c74e.png" tvg-name="LOOK PLUS HD"  group-title="Sport",Look Plus HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33815.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cfc7551ed4b8f7bddab7e7f2ac4eaa03.png" tvg-name="Fight Box HD"  group-title="Filme",Fight Box HD
+http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33916.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33833.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/34065.m3u8
+http://cdn.ch01.spr24.net:81/22367/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33835.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33834.m3u8
+http://cdn.ch01.spr24.net:81/22392/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33837.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33836.m3u8
+http://cdn.ch01.spr24.net:81/22368/mpegts?token=hiVi8EHiq86NZA
 #EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Marvel Movies HD"  group-title="Filme",VSV Marvel Movies HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/51126.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Collection HD"  group-title="Filme",VSV Collection HD
@@ -404,7 +406,7 @@ https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb.png" tvg-name="U Tv"  group-title="Muzica",U Tv
-http://edge76.rcs-rds.ro/utvedge/utvlivehls/playlist.m3u8
+http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33910.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee7bf5a92065ca7af4bd08d09f95df99.png" tvg-name="Vintage Music"  group-title="Muzica",Vintage Music
