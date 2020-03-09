@@ -104,15 +104,15 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33916.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/20590cac6bdbb1d87c1d1587da998b23.png" tvg-name="HBO"  group-title="Filme",HBO
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33833.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4551db1bbea4025e88aa1398c1d6509a.png" tvg-name="HBO HD"  group-title="Filme",HBO HD
-http://cdn.ch01.spr24.net:81/22367/mpegts?token=hiVi8EHiq86NZA
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33832.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a7f9c898c812805f26c4ea1e490201da.png" tvg-name="HBO 2"  group-title="Filme",HBO 2
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33835.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/12713c6ff264a3ac58c707c7b2a4bbcf.png" tvg-name="HBO 2 HD"  group-title="Filme",HBO 2 HD
-http://cdn.ch01.spr24.net:81/22392/mpegts?token=hiVi8EHiq86NZA
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33834.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/24e9b00fea77fdab872afaa223fd6dec.png" tvg-name="HBO 3"  group-title="Filme",HBO 3
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33837.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/cee71028915464dbf234547f65c22c0e.png" tvg-name="HBO 3 HD"  group-title="Filme",HBO 3 HD
-http://cdn.ch01.spr24.net:81/22368/mpegts?token=hiVi8EHiq86NZA
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/33836.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Marvel Movies HD"  group-title="Filme",VSV Marvel Movies HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/51126.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://vsvgroup.co.uk/wp-content/uploads/2019/03/vsv-group.png" tvg-name="VSV Collection HD"  group-title="Filme",VSV Collection HD
