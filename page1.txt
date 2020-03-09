@@ -7,7 +7,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/48056.m3u8
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="PRO TV"  group-title="Generale",Pro TV
 http://zeroip.tv:8008/live/munteanu_georghe/Alin2008/33762.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="PRO TV"  group-title="Generale",Pro TV(2)
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="PRO TV"  group-title="Generale",Pro TV(2
 http://212.224.72.126/?watch=NLES/protv-rom&token=0WaEcuFNaYLrztDIsPP2Yg==,1583776977.1679989495&t=0&s=3&p=1&c=DZ&r=12
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="PRO TV HD"  group-title="Generale",Pro TV HD
 http://zeroip.tv:8008/live/munteanu_georghe/Alin2008/33761.m3u8
