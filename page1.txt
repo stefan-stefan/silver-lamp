@@ -377,8 +377,6 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33864.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33862.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1bcfb810cee704aa1a79058b194303d.png" tvg-name="Disney Junior"  group-title="Desene",Disney Junior
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33861.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7c8755845c8a22c45293f336eab9f2e.png" tvg-name="Megamax"  group-title="Desene",Megamax
-http://www.sansat.net:25461/live/029967155160/3BoMkfwLJBueaHN/49912.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7085e6c3f229860380df2e1bea83c4a.png" tvg-name="Minimax"  group-title="Desene",Minimax
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33863.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f91022004ce9aab1397c498ec1ee684b.png" tvg-name="Boomerang HD"  group-title="Desene",Boomerang
