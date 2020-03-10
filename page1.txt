@@ -399,18 +399,14 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33868.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33908.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33907.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://trace.tv/trace-tropical/wp-content/uploads/sites/19/2016/11/logo_tropical-1.png" tvg-name="Trace Tropical"  group-title="Muzica",Trace Tropical
-https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
 http://fms-https1.mediadirect.ro/live3/_definst_/kiss.smil/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ca0e1766b1b8e6f4c78419eeb24ef5cb.png" tvg-name="U Tv"  group-title="Muzica",U Tv
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33910.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/88eaac40b27c1b47df9a3f7b7d71e3e3.png" tvg-name="MTV"  group-title="Muzica",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ee7bf5a92065ca7af4bd08d09f95df99.png" tvg-name="Vintage Music"  group-title="Muzica",Vintage Music
-https://streamingserver001.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v2a1/mono.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.phonostar.de/images/auto_created/Ibiza_Global_Radio184x184.png" tvg-name="Ibiza Global  group-title="Muzica",Ibiza Global
-http://server10.streaming-pro.com:1937/live/ibgtvlive/playlist.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4687cfb021a02cebf31a249689ecc60e.png" tvg-name="MTV Rocks"  group-title="Muzica",MTV Rocks
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36472.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/025fef3f53d612aee7f64a663fcdda9b.png" tvg-name="Music Channel"  group-title="Muzica",Music Channel
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33908.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/45de33b13919a82e82614c160f25ac43.png" tvg-name="Magic Tv"  group-title="Muzica",Magic Tv
@@ -419,8 +415,10 @@ http://fms-https1.mediadirect.ro/live3/_definst_/magictv.smil/playlist.m3u8
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz HD"  group-title="Muzica",Mooz HD
 http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dad8ee483cc9a336cde702e9aa0b0954.png" tvg-name="VH-1"  group-title="Muzica",VH-1
-http://89.45.201.132:2222/udp/224.0.0.3:604
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz Hits"  group-title="Muzica",Mooz Hits
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozHitsSD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1f4b2520dff344119054260d0459cac6.png" tvg-name="Mooz RO"  group-title="Muzica",Mooz RO
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozRoSD/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://www.telemusica.tv/images/logotelemusicahit.png" tvg-name="Tele Musica"  group-title="Muzica",Tele Musica
 http://186.155.200.118:1935/live/telemusica_web/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://melodychannel.tv/images/logos.png" tvg-name="Melody Channel"  group-title="Muzica",Melody Channel
@@ -449,20 +447,12 @@ http://webmobile.xdev.ro:81/tv13/playlist.m3u8
 http://webmobile.xdev.ro:81/tv12/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e037dec17e950ad06d3786e56cbf310e.png" tvg-name="Taraf"  group-title="Muzica",Taraf TV
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33913.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.supertv.ro/wp-content/uploads/2019/04/logo-gofm-and-super-tv.png" tvg-name="Super TV HD"  group-title="Muzica",Super TV HD
-http://91.235.165.77:8000/play/a002/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bf8715119f8a56435b0e7189a22e9a10.png" tvg-name="Planeta HD"  group-title="Muzica",Planeta HD
-http://91.193.201.22:9091/udp/234.30.85.162:5000
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tvbuzau.ro/wp-content/uploads/2016/07/tv-buzau-logo.png" tvg-name="Buzau TV"  group-title="Locale",Buzau TV
 http://95.77.16.67:8080/
-#EXTINF:0, tvg-id="" tvg-logo="https://andreipitigoi.files.wordpress.com/2010/01/sigla-campus-tv.jpg" tvg-name="Campus TV Buzau"  group-title="Locale",Campus TV Buzau
-mmsh://82.208.182.135:8080/
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bucovinatv.ro/wp-content/uploads/2017/08/btv-logo-site-e1528828523204.png" tvg-name="Bucovina TV"  group-title="Locale",Bucovina TV
 http://46.4.14.12:9999/btvsvlive/btvsvlive/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/ardeal-tv.png" tvg-name="Ardeal TV"  group-title="Locale",Ardeal TV
 http://89.36.196.22:88/live/livestream/playlist.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/curier-tv-ro.png" tvg-name="Curier TV"  group-title="Locale",Curier TV
-http://5.2.164.135:1935/live/curiertv/.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://musceltv.ro/site/wp-content/uploads/2016/05/microsigla-frontala.png" tvg-name="Muscel TV"  group-title="Locale",Muscel TV
 mms://musceltvlive.muscel.ro:8080
 #EXTINF:0, tvg-id="" tvg-logo="https://bittv.info/wp-content/uploads/2018/10/logo-nou-2018.png" tvg-name="BIT TV"  group-title="Locale",BIT TV
@@ -474,13 +464,13 @@ http://89.136.209.26:1935/liveedge/TVRCLUJ.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/mari/tvr-craiova.png" tvg-name="TVR Craiova"  group-title="Locale",TVR Craiova
 https://mn-nl.mncdn.com/tvr_craiova_live/tvr_craiova_live2/playlist.m3u8?
 #EXTINF:0, tvg-id="" tvg-logo="http://teleon.tv/images/logos/bucuresti-tv-mini.jpg" tvg-name="Bucuresti TV HD"  group-title="Locale",Bucuresti TV HD
-http://79.112.184.195:9100/play/a03b
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/37449.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/actualitatea-tv.png" tvg-name="Actualitatea TV"  group-title="Locale",Actualitatea TV
 http://webmobile.xdev.ro:81/tv4/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/40cc1685b089b83039c635980cc4ec50.png" tvg-name="Telestar TV"  group-title="Locale",Telestar TV
 http://193.34.109.10:8090
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/5ba9ca9b011fd38a9db787d9948e1340.png" tvg-name="Columna TV"  group-title="Locale",Columna TV
-https://ppext.arktv.ro/hls/channel4/bitrate4.m3u8
+http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36468.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/a97d39ea813ef06a57a20098026e9a66.png" tvg-name="Traditii TV"  group-title="Locale",Traditii TV
 https://ppext.arktv.ro/hls/channel5/bitrate4.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://acum-tv.ro/wp-content/uploads/2019/01/logo-acum-tv-xs-1-300x98.png" tvg-name="Acum TV"  group-title="Locale",Acum TV
