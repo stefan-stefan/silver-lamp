@@ -512,7 +512,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/34160.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Vivid TV HD(18+)"  group-title="Erotice",Vivid TV HD(18+)
 http://188.35.9.11:21051/udp/071l
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7cf37d44b1282b26cf4331c95004f67.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
-https://www.youtube.com/watch?v=bwy1Sbye32w
+http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/5275.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/49734efbe60a4e666a1b0803e757e82d.png" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://en.kingofsat.net/jpg/alfa-omega.jpg" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
