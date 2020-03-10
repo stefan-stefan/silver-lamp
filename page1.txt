@@ -53,8 +53,6 @@ http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
 http://83.103.145.35:8001/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33798.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1(2)
-http://82.76.40.81/digiedge/digisport1ehq/index.m3u8?is=1&src=digi-online.ro&t=00000000000000000000000000000000&q=hq&s=digisport1&p=browser&pe=site
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/956655a06bf420ebefd6a292a0cafd3d.png" tvg-name="Digi Sport 1 HD"  group-title="Sport",Digi Sport 1 HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33797.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d1fdea1f6e58979a6f5dd800d7edd1f3.png" tvg-name="Digi Sport 2"  group-title="Sport",Digi Sport 2
@@ -296,7 +294,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33878.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation"  group-title="Wild",Crime Investigation
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33880.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
-http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9304.m3u8
+http://rocksat.ddns.net:25461/live/3mfvbsvk/578jtxaw/57075.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33899.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
@@ -310,7 +308,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33897.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0a1d990896e36d9c5611fad3b2c97ea0.png" tvg-name="BBC Earth"  group-title="Wild",BBC Earth
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33892.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f9078af9cb17adf31976b43b476476a5.png" tvg-name="DocuBox"  group-title="Wild",DocuBox HD
-http://cdn.ch01.spr24.net:81/22981/mpegts?token=hiVi8EHiq86NZA
+http://www.sansat.net:25461/live/02025567678532/qSpJjntzmBHbaRI/57107.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33894.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
@@ -352,7 +350,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33769.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33776.m3u8
+http://www.sansat.net:25461/live/02025567678532/qSpJjntzmBHbaRI/57084.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
