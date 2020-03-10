@@ -31,11 +31,6 @@ http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
 http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Digi 24 HD" tvg-logo="https://img.iptvmate.net/470f062d96c6cb6176a11811ab42bdb8.png" tvg-url="http://bit.ly/epg-ro" group-title="News",Digi 24
-https://ch.iptvmate.net/e77af2d15dae8e7fc8d0e321e692ecad.m3u8
-
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fef5adfb682e33d3be5ee5083344414b.png" tvg-name="Realitatea TV"  group-title="Stiri",Realitatea Tv
 https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
