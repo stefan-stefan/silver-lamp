@@ -441,6 +441,8 @@ http://ch.iptvmate.net/22c91b242794817fc5830052c8ef9315.m3u8
 http://78.109.108.62:6010/favorit
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Etno"  group-title="Muzica",Etno
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33914.m3u8
+#EXTINF:0, tvg-id="" tvg-logo="https://ibb.co/608cg9P" tvg-name="Party Mix"  group-title="Muzica",Party Mix
+http://188.26.6.77:8800/play/a033/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://www.tezaurtv.ro/wp-content/uploads/2018/09/Tezaur-TV-online.jpg" tvg-name="Tezaur TV"  group-title="Muzica",Tezaur TV
 http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/bd5724aecde334c9c90f31846a4d4476.png" tvg-name="Traditional TV"  group-title="Muzica",Traditional TV
