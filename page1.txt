@@ -286,7 +286,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33882.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33879.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
-http://94.177.136.29:7478/play/a039
+http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9248.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/34078.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Wild",Discovery ID
@@ -294,7 +294,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33881.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38427.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
-http://94.177.136.29:7478/play/a03b
+http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
@@ -320,7 +320,7 @@ http://188.26.6.77:8800/play/a036/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33894.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
-http://94.177.136.29:7478/play/a03a
+http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9252.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33874.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
