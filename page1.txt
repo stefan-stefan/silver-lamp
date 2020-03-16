@@ -30,7 +30,7 @@ http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="Pro TV"  group-title="Generale",Pro TV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
-http://edge76.rcs-rds.ro/digi24edge/smil:digi24.smil/playlist.m3u8
+http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/15000.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fef5adfb682e33d3be5ee5083344414b.png" tvg-name="Realitatea TV"  group-title="Stiri",Realitatea Tv
 https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea Plus"  group-title="Stiri",Realitatea Plus
@@ -48,7 +48,7 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro TV"  group-title="Stiri",Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
+http://212.8.252.59:88/live/mario/mario/2390.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/954e441ada12cfc3172940b4a4997bba.png" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 http://83.103.145.35:8001/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport 1
@@ -96,7 +96,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33818.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport
-http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9334.m3u8
+http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/5314.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport HD
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1669.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="LOOK SPORT 2"  group-title="Sport",Look Sport 2
@@ -286,7 +286,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33882.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33879.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
-http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9248.m3u8
+http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/5306.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/34078.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Wild",Discovery ID
@@ -399,8 +399,8 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33860.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33866.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38428.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://miro.medium.com/max/4790/1*5Xgetha9-iIJP-wXwlGx_Q.png" tvg-name="Tom&Jerry"  group-title="Desene",Tom&Jerry
-http://212.8.252.59:88/live/nam/nam/6471.ts
+#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1c/Tom_%C8%99i_Jerry.jpg" tvg-name="Tom&Jerry"  group-title="Desene",Tom&Jerry
+http://212.8.252.59:88/live/mario/mario/6471.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33868.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
