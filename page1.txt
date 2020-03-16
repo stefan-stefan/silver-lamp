@@ -286,7 +286,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33882.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2bffe8e99bded440c9a326cd6751a23d.png" tvg-name="Discovery Channel"  group-title="Wild",Discovery Channel
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33879.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science"  group-title="Wild",Discovery Science
-http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/5306.m3u8
+http://king365-tv.com:2103/live/jeanmichel/jeanmichel/3708.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e8daf6aa92691fefc4aeca21614bf361.png" tvg-name="Discovery Science HD"  group-title="Wild",Discovery Science HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/34078.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e20104c7f23b18223c74cd43f6aefb0a.png" tvg-name="ID Investigation Discovery"  group-title="Wild",Discovery ID
