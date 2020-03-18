@@ -30,11 +30,9 @@ http://vid.hls.protv.ro/protvnews/protvnews.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/008c80e08a5bfd5a7521a8b6836fd99d.png" tvg-name="Pro TV"  group-title="Generale",Pro TV Chisinau HD
 http://hls.protv.md/hls/protv.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/00c0b9b5fb0639dad390ef5b088e86c8.png" tvg-name="Digi 24 HD"  group-title="Stiri",Digi 24 HD
-http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/15000.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fef5adfb682e33d3be5ee5083344414b.png" tvg-name="Realitatea TV-RO"  group-title="Stiri",Realitatea Tv
-http://188.26.6.77:8800/play/a02x/index.m3u8
+http://212.8.252.59:88/live/mario/mario/2165.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fef5adfb682e33d3be5ee5083344414b.png" tvg-name="Realitatea plus"  group-title="Stiri",Realitatea Tv
-https://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
+http://212.8.252.59:88/live/mario/mario/2173.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/68fdb471812398043a5fdd640937b8b6.png" tvg-name="Realitatea plus"  group-title="Stiri",Realitatea Plus
 http://livestream.realitatea.net/livestream/liverealitatea.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d7b2cafabdf063b5376b4db93bdaca27.png" tvg-name="România TV"  group-title="Stiri",Romania TV
@@ -70,19 +68,19 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33804.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f80413ca69001f0ee11086e303c167d7.png" tvg-name="Digi Sport 4 HD"  group-title="Sport",Digi Sport 4 HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33803.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1
-http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/53855.m3u8
+http://212.8.252.59:88/live/mario/mario/2200.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
 http://212.8.252.59:88/live/mario/mario/2200.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
-http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/12920.m3u8
+http://212.8.252.59:88/live/mario/mario/2199.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2 HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33807.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b9415a2fc2b1b4432e5eeed9ed3eac0c.png" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3
-http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/12979.m3u8
+http://212.8.252.59:88/live/mario/mario/2198.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b9415a2fc2b1b4432e5eeed9ed3eac0c.png" tvg-name="Telekom Sport 3"  group-title="Sport",Telekom Sport 3 HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33808.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b6065c03e02d5f6c6eb6f9fc39c6047.png" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4
-http://85.217.222.51:2565/live/marceldrewsvater1/oehbkkzjgh/12042.m3u8
+http://212.8.252.59:88/live/mario/mario/2197.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8b6065c03e02d5f6c6eb6f9fc39c6047.png" tvg-name="Telekom Sport 4"  group-title="Sport",Telekom Sport 4 HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/36709.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7dcbc955cefb93e082bc3905cad5c8a1.png" tvg-name="Eurosport 1"  group-title="Sport",Eurosport 1
@@ -98,7 +96,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33818.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/3d7aea8f552c33e987eb82ed089e2516.png" tvg-name="Pro X HD"  group-title="Sport",Pro X HD
 https://vid.hls.protv.ro/proxhdn/proxhd_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport
-http://188.26.6.77:8800/play/a048/index.m3u8
+http://212.8.252.59:88/live/mario/mario/7465.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/8783040e91f3283ac5d8d9c91fd1cc66.png" tvg-name="LOOK SPORT"  group-title="Sport",Look Sport HD
 http://king365-tv.com:2103/live/jeanmichel/jeanmichel/1669.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.looksport.ro/wp-content/themes/looksport/assets/imgs/looksport2.png" tvg-name="LOOK SPORT 2"  group-title="Sport",Look Sport 2
