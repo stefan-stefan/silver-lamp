@@ -68,7 +68,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33803.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36706.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
-http://212.8.252.59:88/live/mario/mario/2200.m3u8
+http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/53855.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34073.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2 HD
@@ -151,18 +151,12 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33828.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33821.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Sci-Fi"  group-title="Filme",HD NET Sci-Fi
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33822.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Premiere"  group-title="Filme",HD NET Premiere
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33819.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Las Fierbinti"  group-title="Filme",HD NET Las Fierbinti
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33827.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Kids"  group-title="Filme",HD NET Kids
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33829.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Horror"  group-title="Filme",HD NET Horror
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33823.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Comedy"  group-title="Filme",HD NET Comedy
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33825.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Action"  group-title="Filme",HD NET Action
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33820.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.hdnetro.tv/wp-content/uploads/2019/10/hdnet.png" tvg-name="HD NET Arnold Schwarzenegger"  group-title="Filme",HD NET Arnold Schwarzenegger
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/50721.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://www.imageupload.net/upload-image/2020/02/04/magura.png" tvg-name="Magura Media Family Time"  group-title="Filme",Magura Media Family Time
@@ -267,8 +261,6 @@ http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://i0.wp.com/www.bizbrasov.ro/wp-content/uploads/2018/10/Digi-4K.jpg?resize=640%2C352" tvg-name="Digi 4K"  group-title="Wild",Digi 4K
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/34585.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://medikatv.ro/wp-content/uploads/2019/06/medika_logo.png" tvg-name="Medika Tv"  group-title="Wild",Medika Tv
-http://212.8.252.59:88/live/mario/mario/7524.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://arcadia-tv.ro/wp-content/uploads/2018/11/arcadiaplus.png" tvg-name="Arcadia TV"  group-title="Wild",Arcadia World
 http://www.arcadiatelevision.ro/ro/assets/vids/stream-9/stream.php/2500.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/37288e62601868f21fc4f7a49f23e4e5.png" tvg-name="Animal Planet"  group-title="Wild",Animal Planet
@@ -294,7 +286,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33881.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38427.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
-http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33875.m3u8
+http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/14992.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
@@ -358,7 +350,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33769.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://www.sansat.net:25461/live/02025567678532/qSpJjntzmBHbaRI/57084.m3u8
+http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/14985.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
