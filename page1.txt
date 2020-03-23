@@ -237,7 +237,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33852.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33858.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b818b960f3a29fbd8c315e0c2d58848d.png" tvg-name="Epic Drama"  group-title="Filme",Epic Drama
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33859.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton"  group-title="Filme",Cinemaraton
+#EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/cinemaraton_poster.png" tvg-name="Cinemaraton HD"  group-title="Filme",Cinemaraton
 https://cmn.digitalcable.ro/free/cm/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://restxyz.akta.ro/assets/images/comedyest_poster.png" tvg-name="Comedy Est"  group-title="Filme",Comedy Est
 https://cmn.digitalcable.ro/free/comedyest/playlist.m3u8
