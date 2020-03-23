@@ -350,7 +350,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33769.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/14985.m3u8
+http://zeroip.tv:8008/live/Anton/Anton/33776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
