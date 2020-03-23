@@ -46,7 +46,7 @@ https://stream1.profit.ro:1945/profit/livestream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e4c0a7f9e86e9aa9a55e14c3562cb35f.png" tvg-name="Agro TV"  group-title="Stiri",Agro TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$AgroTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a98d664fb0f2909992d398d5c843e468.png" tvg-name="Nasul TV"  group-title="Stiri",Nasul TV
-http://212.8.252.59:88/live/mario/mario/2390.m3u8
+http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9338.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/954e441ada12cfc3172940b4a4997bba.png" tvg-name="Informatia TV"  group-title="Stiri",Informatia TV
 http://83.103.145.35:8001/
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/ba30965278076d2b42c75952905026d4.png" tvg-name="Digi Sport 1"  group-title="Sport",Digi Sport1
@@ -68,7 +68,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33803.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36706.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
-http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/53855.m3u8
+http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9219.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34073.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2 HD
@@ -286,7 +286,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33881.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38427.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
-http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/14992.m3u8
+http://zeroip.tv:8008/live/Anton/Anton/33875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
@@ -294,7 +294,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33878.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33880.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
-http://mytv.fun:80/live/marceldrewsvater1/oehbkkzjgh/14999.m3u8
+http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9304.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33899.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
@@ -391,8 +391,6 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33860.m3u8
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33866.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/31c01e25f4db50d00a47a379d3d64c98.png" tvg-name="JimJam"  group-title="Desene",JimJam
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38428.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/1/1c/Tom_%C8%99i_Jerry.jpg" tvg-name="Tom&Jerry"  group-title="Desene",Tom&Jerry
-http://212.8.252.59:88/live/mario/mario/6471.ts
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33868.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
@@ -514,7 +512,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/34160.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/e3204ecd04d7045804656a39156eb9df.png" tvg-name="Vivid TV HD(18+)"  group-title="Erotice",Vivid TV HD(18+)
 http://188.35.9.11:21051/udp/071l
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f7cf37d44b1282b26cf4331c95004f67.png" tvg-name="Trinitas"  group-title="Religioase",Trinitas
-http://188.26.6.77:8800/play/a041/index.m3u8
+http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9347.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/49734efbe60a4e666a1b0803e757e82d.png" tvg-name="Speranta TV"  group-title="Religioase",Speranta TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$SperantaTV/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://en.kingofsat.net/jpg/alfa-omega.jpg" tvg-name="Alfa&Omega"  group-title="Religioase",Alfa&Omega
