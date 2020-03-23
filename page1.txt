@@ -255,7 +255,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33774.m3u8
 https://vid.hls.protv.ro/pro2n/pro2_3_34/index.m3u8?1
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a1534ad1fe249374953aaef783f9653c.png" tvg-name="PRO GOLD"  group-title="Filme",PRO Gold
 https://vid.hls.protv.ro/progoldn/progold_3_34/index.m3u8?1
-#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4c0a8bf1a097eb45f5bc038ae71e4652.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV HD
+#EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4c0a8bf1a097eb45f5bc038ae71e4652.png" tvg-name="Bollywood TV"  group-title="Filme",Bollywood TV
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/4b865f70179ee2a8bebc3260a0315f67.png" tvg-name="Bollywood Classics"  group-title="Filme",Bollywood Classic
 http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
