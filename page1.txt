@@ -68,7 +68,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33803.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/36706.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/fb8f0b14d0c25c1b2fc74d8a1d17648d.png" tvg-name="Telekom Sport 1 HD"  group-title="Sport",Telekom Sport 1 HD
-http://exteco.ddns.net:8888/live/canaleromanesti/d2TJ0VSgxv/9219.m3u8
+http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/36706.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2
 http://zeroip.tv:8008/live/enrico_lupesco/Alin2008/34073.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/756a2c5cdd7c81735a275ca82a9fc541.png" tvg-name="Telekom Sport 2"  group-title="Sport",Telekom Sport 2 HD
