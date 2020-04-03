@@ -6,9 +6,9 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/48056.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/crops/c6d859baea548cc7e8ca08e876d0322e.png" tvg-name="TVR 2"  group-title="Generale",TVR 2
 http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/dc9786e53cdb1c46b6d9380dc26bd8c7.png" tvg-name="PRO TV"  group-title="Generale",Pro TV
-http://zeroip.tv:8008/live/munteanu_georghe/Alin2008/33762.m3u8
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33762.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/86543fbc62afa899f4828c1ad44e0460.png" tvg-name="PRO TV HD"  group-title="Generale",Pro TV HD
-http://zeroip.tv:8008/live/munteanu_georghe/Alin2008/33761.m3u8
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33761.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/b6c12b68682f5cde4d444b3641564008.png" tvg-name="Antena 1"  group-title="Generale",Antena 1
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33765.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/91ce716a7d1edb653d11ec132f521554.png" tvg-name="Antena 1 HD"  group-title="Generale",Antena 1 HD
@@ -286,7 +286,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33881.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/5ba787863049093bd4a8f1c82c1b97a0.png" tvg-name="ID Investigation Discovery HD"  group-title="Wild",Discovery ID HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38427.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra
-http://zeroip.tv:8008/live/Anton/Anton/33875.m3u8
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/0b574a9cc39eef5a91237ac43429a412.png" tvg-name="Discovery Turbo Xtra HD"  group-title="Wild",Discovery Turbo Extra HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33875.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/f0d4673cb84e88f1840cd0453c855067.png" tvg-name="Discovery Showcase HD"  group-title="Wild",Discovery ShowCase HD
@@ -294,7 +294,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33878.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Crime Investigation Network"  group-title="Wild",Crime Investigation
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33880.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World"  group-title="Wild",Digi World
-http://iptv.xtreamiptv.net:8080/live/0ZTmKn2TSx/dSpI0Qf4jW/2403.m3u8
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33900.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/2381394478ba90e0cfa2eaf5586a6584.png" tvg-name="Digi World HD"  group-title="Wild",Digi World HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33899.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/045351bfc4fcb687e632ecf45122dc66.png" tvg-name="Digi Life"  group-title="Wild",Digi Life
@@ -312,7 +312,7 @@ http://217.115.112.137:8123/play/a02y/index.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a663a79a5488f99aed3da06427d74be5.png" tvg-name="CBS Reality"  group-title="Wild",CBS Reality
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33894.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/67585966fd5c1998f858f43a89eca673.png" tvg-name="Fine Living"  group-title="Wild",Fine Living
-http://zeroip.tv:8008/live/munteanu_georghe/Alin2008/33873.m3u8
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33873.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/921634d9c931bbb2bd1a8517a50a8122.png" tvg-name="Fishing&Hunting"  group-title="Wild",Fishing&Hunting
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33874.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/735d24dc3c200a2d4262c7382a35b2ff.png" tvg-name="E! Entertainment"  group-title="Wild",E! Entertainment
@@ -350,7 +350,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33769.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/a611e653aaa48b683911a3d7051cb2c9.png" tvg-name="Antena Stars HD"  group-title="Diverse",Antena Stars HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33768.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1a459909a39ec97a6ffff474e89a89c6.png" tvg-name="Happy Channel"  group-title="Diverse",Happy Channel
-http://zeroip.tv:8008/live/Anton/Anton/33776.m3u8
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/1675120f0cda987c759440f2b1a34ff3.png" tvg-name="Happy Channel HD"  group-title="Diverse",Happy Channel HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33776.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="http://stvron.com/canale/512/cook-play.png" tvg-name="Cook and Play"  group-title="Diverse",Cook and Play
@@ -394,7 +394,7 @@ http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/38428.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/d3d0a0316c550ec5405e015b2327367f.png" tvg-name="Duck TV"  group-title="Desene",Duck TV
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33868.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV"  group-title="Muzica",ZU TV
-http://zeroip.tv:8008/live/munteanu_georghe/Alin2008/33907.m3u8
+http://zeroip.tv:8008/live/irimia_nicusor/Alin2008/33908.m3u8
 #EXTINF:0, tvg-id="" tvg-logo="https://iptv.live/images/logo/channel/smalls/7cbaa558e156fd216a5b25dfa1907fd5.png" tvg-name="ZU TV HD"  group-title="Muzica",ZU TV HD
 http://zeroip.tv:8008/live/andrei_catalin_simion/Alin2008/33907.m3u8
 #EXTINF:0, tvg-id="raz8" tvg-logo="https://iptv.live/images/logo/channel/smalls/3343605a786b87eaf2450a20872528e9.png" tvg-name="Kiss Tv"  group-title="Muzica",Kiss Tv
